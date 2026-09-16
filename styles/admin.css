@@ -1,0 +1,458 @@
+/* ═══════════════════════════════════════════════════════════════════
+   NISA — the order desk.
+
+   Same tokens, same typefaces, same hairline rules as the shop; it reads
+   as the same house, only denser, because someone works in it all day.
+   ═══════════════════════════════════════════════════════════════════ */
+
+.adm {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── sign in ─────────────────────────────────────────────────────── */
+.adm-gate {
+  flex: 1;
+  display: grid;
+  place-items: center;
+  padding: var(--gut);
+}
+.adm-gate-in {
+  width: min(420px, 100%);
+  border: 1px solid var(--rule);
+  padding: clamp(24px, 5vw, 44px);
+  background: var(--color-bg);
+}
+.adm-gate img {
+  height: 44px;
+  width: auto;
+  margin-bottom: var(--space-6);
+}
+.adm-gate .field {
+  margin-top: var(--space-6);
+}
+.adm-err {
+  font-size: 13px;
+  margin-top: var(--space-4);
+  padding: var(--space-3) var(--space-4);
+  border-left: 2px solid #b4453b;
+  background: color-mix(in srgb, #b4453b 10%, transparent);
+  color: var(--color-text);
+}
+
+/* ── the bar across the top ──────────────────────────────────────── */
+.adm-head {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  flex-wrap: wrap;
+  padding: var(--space-3) max(var(--gut), var(--safe-l, 0px));
+  border-bottom: 1px solid var(--rule);
+  background: color-mix(in srgb, var(--color-bg) 94%, transparent);
+  backdrop-filter: blur(14px);
+}
+.adm-head img {
+  height: 32px;
+  width: auto;
+}
+.adm-head h1 {
+  font-family: var(--font-heading);
+  font-size: 22px;
+  font-weight: 400;
+  margin: 0;
+  line-height: 1.1;
+}
+.adm-head .adm-head-t {
+  margin-right: auto;
+  min-width: 0;
+}
+.adm-head-acts {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.adm-body {
+  flex: 1;
+  padding: var(--space-6) max(var(--gut), var(--safe-l, 0px))
+    calc(var(--space-8) + var(--safe-b, 0px));
+  max-width: var(--maxw);
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* ── the numbers ─────────────────────────────────────────────────── */
+.adm-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(168px, 1fr));
+  gap: 1px;
+  background: var(--rule);
+  border: 1px solid var(--rule);
+}
+.adm-stat {
+  background: var(--color-bg);
+  padding: var(--space-4);
+}
+.adm-stat .k {
+  display: block;
+  font-size: 10px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--color-accent-700);
+  margin-bottom: 6px;
+}
+.adm-stat .v {
+  display: block;
+  font-family: var(--font-heading);
+  font-size: clamp(26px, 3vw, 36px);
+  line-height: 1.05;
+  font-variant-numeric: tabular-nums;
+}
+.adm-stat .s {
+  display: block;
+  font-size: 12px;
+  margin-top: 4px;
+}
+
+/* ── filter row ──────────────────────────────────────────────────── */
+.adm-tools {
+  display: flex;
+  gap: var(--space-3);
+  align-items: center;
+  flex-wrap: wrap;
+  margin: var(--space-6) 0 var(--space-4);
+}
+.adm-tools .in {
+  flex: 1 1 240px;
+  min-width: 0;
+}
+.adm-chips {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+.adm-chip {
+  font-family: var(--font-body);
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 8px 12px;
+  min-height: 36px;
+  border: 1px solid var(--rule);
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+  border-radius: 999px;
+  transition:
+    border-color 0.25s,
+    background-color 0.25s,
+    color 0.25s;
+}
+.adm-chip:hover {
+  border-color: var(--color-accent);
+}
+.adm-chip[aria-pressed='true'] {
+  border-color: var(--color-accent);
+  background: var(--color-accent-100);
+  color: var(--color-accent-900);
+}
+.adm-chip .n {
+  font-variant-numeric: tabular-nums;
+  opacity: 0.6;
+  margin-left: 5px;
+}
+
+/* ── the order table, on a desk ──────────────────────────────────── */
+.adm-table-wrap {
+  border: 1px solid var(--rule);
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+}
+.adm-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+  min-width: 760px;
+}
+.adm-table th {
+  text-align: left;
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--color-text) 62%, transparent);
+  padding: var(--space-3);
+  border-bottom: 1px solid var(--color-text);
+  white-space: nowrap;
+}
+.adm-table th button {
+  font: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+.adm-table th button:hover {
+  color: var(--color-accent-700);
+}
+.adm-table td {
+  padding: var(--space-3);
+  border-bottom: 1px solid var(--rule);
+  vertical-align: top;
+}
+.adm-table tbody tr {
+  cursor: pointer;
+  transition: background-color 0.25s;
+}
+.adm-table tbody tr:hover {
+  background: var(--color-neutral-100);
+}
+.adm-table tbody tr[aria-selected='true'] {
+  background: var(--color-accent-100);
+}
+.adm-table .ref {
+  font-variant-numeric: tabular-nums;
+  font-size: 13px;
+  white-space: nowrap;
+}
+.adm-table .who strong {
+  display: block;
+  font-family: var(--font-heading);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.15;
+}
+.adm-table .money {
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  text-align: right;
+}
+
+/* ── the order cards, on a phone ─────────────────────────────────── */
+.adm-cards {
+  display: none;
+  gap: 1px;
+  background: var(--rule);
+  border: 1px solid var(--rule);
+}
+.adm-card {
+  background: var(--color-bg);
+  border: 0;
+  text-align: left;
+  width: 100%;
+  padding: var(--space-4);
+  color: inherit;
+  font-family: var(--font-body);
+  cursor: pointer;
+  display: grid;
+  gap: 6px;
+}
+.adm-card .top {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-3);
+  align-items: center;
+}
+.adm-card strong {
+  font-family: var(--font-heading);
+  font-size: 20px;
+  font-weight: 400;
+}
+.adm-card .meta {
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ── status pill ─────────────────────────────────────────────────── */
+.adm-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 4px 9px;
+  border-radius: 999px;
+  border: 1px solid currentColor;
+  white-space: nowrap;
+}
+.adm-pill::before {
+  content: '';
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: currentColor;
+}
+.adm-pill[data-s='new'] {
+  color: var(--color-accent-700);
+}
+.adm-pill[data-s='confirmed'],
+.adm-pill[data-s='paid'] {
+  color: #2f7d64;
+}
+.adm-pill[data-s='packed'],
+.adm-pill[data-s='dispatched'] {
+  color: #3f6ba8;
+}
+.adm-pill[data-s='delivered'] {
+  color: color-mix(in srgb, var(--color-text) 58%, transparent);
+}
+.adm-pill[data-s='cancelled'] {
+  color: #b4453b;
+}
+
+/* ── one order, opened ───────────────────────────────────────────── */
+.adm-detail {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 60;
+  width: min(560px, 100vw);
+  background: var(--color-bg);
+  border-left: 1px solid var(--rule);
+  box-shadow: var(--shadow-lg);
+  display: flex;
+  flex-direction: column;
+  transform: translateX(100%);
+  transition: transform 0.5s var(--slow);
+}
+.adm-detail.on {
+  transform: none;
+}
+.adm-detail-head {
+  padding: var(--space-6) var(--space-6) var(--space-4);
+  border-bottom: 1px solid var(--rule);
+  position: relative;
+}
+.adm-detail-head .x {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+}
+.adm-detail-body {
+  flex: 1;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: var(--space-6);
+  display: grid;
+  gap: var(--space-6);
+  align-content: start;
+  padding-bottom: calc(var(--space-6) + var(--safe-b, 0px));
+}
+.adm-block h3 {
+  font-family: var(--font-body);
+  font-size: 10px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--color-accent-700);
+  margin: 0 0 var(--space-3);
+  font-weight: 400;
+}
+.adm-kv {
+  display: grid;
+  gap: 8px;
+  font-size: 14px;
+}
+.adm-kv > div {
+  display: grid;
+  grid-template-columns: 104px 1fr;
+  gap: var(--space-3);
+  align-items: baseline;
+}
+.adm-kv dt,
+.adm-kv .k {
+  font-size: 12px;
+  color: color-mix(in srgb, var(--color-text) 58%, transparent);
+}
+.adm-kv .v {
+  overflow-wrap: anywhere;
+}
+.adm-line {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-3);
+  font-size: 14px;
+  padding: 7px 0;
+  border-bottom: 1px solid var(--rule);
+}
+.adm-line:last-of-type {
+  border-bottom: 0;
+}
+.adm-line .money {
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.adm-total {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  border-top: 1px solid var(--color-text);
+  margin-top: var(--space-3);
+  padding-top: var(--space-3);
+}
+.adm-steps {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+.adm-log {
+  display: grid;
+  gap: var(--space-3);
+  font-size: 13px;
+}
+.adm-log div {
+  border-left: 2px solid var(--rule);
+  padding-left: var(--space-3);
+}
+.adm-log time {
+  display: block;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--color-text) 55%, transparent);
+  margin-bottom: 2px;
+}
+
+/* ── switching to the phone layout ───────────────────────────────── */
+@media (max-width: 860px) {
+  .adm-table-wrap {
+    display: none;
+  }
+  .adm-cards {
+    display: grid;
+  }
+  .adm-detail {
+    width: 100vw;
+  }
+  .adm-head h1 {
+    font-size: 19px;
+  }
+}
+@media (max-width: 560px) {
+  .adm-head {
+    gap: var(--space-2);
+  }
+  .adm-head img {
+    height: 26px;
+  }
+  .adm-head-acts {
+    width: 100%;
+  }
+  .adm-head-acts .b {
+    flex: 1;
+  }
+  .adm-kv > div {
+    grid-template-columns: 1fr;
+    gap: 2px;
+  }
+}

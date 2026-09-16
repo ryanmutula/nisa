@@ -1,0 +1,418 @@
+/* ═══════════════════════════════════════════════════════════════════
+   NISA — device refinements.
+
+   Loaded after nisa.css. Nothing here changes the design: no colour, no
+   typeface, no proportion that reads as the brand. What it does is make
+   the existing design behave properly on the devices it actually meets —
+   notched phones, phones held sideways, tablets in the awkward middle,
+   and very wide desktops — and lift every tap target to the size a thumb
+   needs. If a rule in here alters how something *looks* rather than how
+   it *fits*, it is a bug.
+   ═══════════════════════════════════════════════════════════════════ */
+
+/* ── the notch, the home bar, the punch-hole ──────────────────────────
+   The gutter already scales with the viewport; these add whatever the
+   device reserves on top, so nothing sits under a rounded corner. */
+:root {
+  --safe-l: env(safe-area-inset-left, 0px);
+  --safe-r: env(safe-area-inset-right, 0px);
+  --safe-b: env(safe-area-inset-bottom, 0px);
+}
+.wrap,
+.head-in {
+  padding-left: max(var(--gut), var(--safe-l));
+  padding-right: max(var(--gut), var(--safe-r));
+}
+.site-foot {
+  padding-bottom: calc(var(--space-6) + var(--safe-b));
+}
+
+/* ── the fixed furniture clears the home bar ──────────────────────── */
+.shopbar {
+  padding-bottom: calc(10px + var(--safe-b));
+}
+.wa {
+  bottom: calc(18px + var(--safe-b));
+}
+body.shopbar-on .wa {
+  bottom: calc(86px + var(--safe-b));
+}
+.bot-fab {
+  bottom: calc(82px + var(--safe-b));
+}
+body.shopbar-on .bot-fab {
+  bottom: calc(138px + var(--safe-b));
+}
+
+/* ── viewport units that survive a mobile browser chrome ──────────────
+   svh is the small viewport: the height with the address bar showing. Using
+   it means the hero never grows a scrollbar the moment the bar retracts. */
+@supports (height: 1svh) {
+  .hero {
+    min-height: min(88svh, 820px);
+  }
+  .dolly {
+    height: clamp(460px, 86svh, 900px);
+  }
+  .vband {
+    height: clamp(420px, 78svh, 780px);
+  }
+  .filmframe {
+    max-height: 72svh;
+  }
+}
+
+/* ── the shelf, across the whole range of screens ─────────────────────
+   Two columns on a phone, three on a tablet, four and five as the desk
+   widens — always with a card wide enough for the name to sit on one line. */
+@media (min-width: 721px) and (max-width: 1080px) {
+  .shelf {
+    grid-template-columns: repeat(auto-fill, minmax(212px, 1fr));
+  }
+  .shop-lay {
+    grid-template-columns: 200px 1fr;
+  }
+}
+@media (min-width: 1600px) {
+  .shelf {
+    grid-template-columns: repeat(auto-fill, minmax(288px, 1fr));
+  }
+}
+
+/* ── tablets: the middle sizes the original skipped ──────────────────── */
+@media (min-width: 721px) and (max-width: 1000px) {
+  /* The nav is already a panel at this width; the actions beside it have
+     room for everything except the redundant Shop button. */
+  .head-act .shop-cta {
+    display: none;
+  }
+  .foot-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .pdp {
+    grid-template-columns: 1fr;
+    max-width: 720px;
+    margin-inline: auto;
+  }
+}
+
+/* ── a phone held sideways ───────────────────────────────────────────
+   Short and wide: the tall editorial bands would fill the screen with one
+   image and no words, so they give up their fixed heights. */
+@media (max-height: 560px) and (orientation: landscape) {
+  .hero {
+    min-height: 0;
+    padding-block: var(--space-6);
+  }
+  .dolly {
+    height: auto;
+  }
+  .dolly-img {
+    position: relative;
+    inset: 0;
+    aspect-ratio: 16/9;
+  }
+  .dolly-in {
+    position: static;
+    padding-block: var(--space-6);
+  }
+  .dolly-veil {
+    display: none;
+  }
+  .vband {
+    height: auto;
+    min-height: 320px;
+    padding-block: var(--space-8);
+  }
+  .filmframe {
+    max-height: none;
+    max-width: 260px;
+  }
+  .sheet.drawer {
+    width: min(430px, 100vw);
+  }
+  .sheet.qv {
+    max-height: 94dvh;
+  }
+}
+
+/* ── thumbs ──────────────────────────────────────────────────────────
+   Forty-four pixels is the smallest target that can be hit reliably. The
+   look does not change: the padding grows inside boxes that were already
+   this size or larger on the desktop. */
+@media (hover: none) {
+  .b,
+  .b.sm {
+    min-height: 44px;
+  }
+  .ib {
+    min-width: 44px;
+    min-height: 44px;
+  }
+  .qty button {
+    width: 40px;
+    height: 40px;
+  }
+  .qty span {
+    min-width: 34px;
+    font-size: 15px;
+  }
+  .pills button {
+    min-height: 38px;
+    padding-inline: 13px;
+  }
+  .fgroup label {
+    padding: 9px 0;
+    min-height: 40px;
+  }
+  .fgroup input {
+    width: 20px;
+    height: 20px;
+  }
+  .nav-util-row {
+    min-height: 48px;
+  }
+  .show-rail button {
+    height: 12px;
+    display: grid;
+    align-content: center;
+    background: transparent;
+  }
+  .show-rail button::before {
+    content: '';
+    height: 3px;
+    background: var(--color-neutral-300);
+  }
+  .show-rail button span {
+    inset: auto 0;
+    height: 3px;
+  }
+  .cmp-chip {
+    min-height: 44px;
+  }
+  .lnk {
+    display: inline-block;
+    padding-block: 6px;
+  }
+  /* iOS zooms the page in on any input under 16px when it takes focus. */
+  .in,
+  select.in,
+  textarea.in,
+  .cur-sel {
+    font-size: 16px;
+  }
+}
+
+/* ── overlays behave like overlays ───────────────────────────────────
+   A drawer that has been scrolled to its end should not hand the scroll on
+   to the page behind it, and a sheet on a phone should be swipe-smooth. */
+.sheet,
+.bag-list,
+.bot-body,
+.admin-list {
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+}
+.sheet.drawer {
+  padding-bottom: var(--safe-b);
+}
+
+/* ── things that must not push the page sideways ─────────────────────
+   Any wide table gets its own scroller rather than stretching the body. */
+.tbl-scroll {
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+}
+.pyr div {
+  min-width: 0;
+}
+.pyr .n,
+.card h3,
+.bag-row,
+.bot-hit {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+/* ── the shelf fits the screen it is on ──────────────────────────────
+   A card is a grid item, so its automatic minimum size is its own
+   min-content width. On a narrow phone that is wider than half the
+   screen, so the two-column shelf laid out wider than the viewport and
+   the right-hand card was quietly clipped by body's overflow-x: hidden —
+   an add-to-bag button with its edge cut off. Letting the item shrink
+   below its min-content puts both cards fully on screen. */
+.shelf > .card {
+  min-width: 0;
+}
+
+/* ── very small phones ──────────────────────────────────────────────── */
+@media (max-width: 380px) {
+  .pyr div {
+    grid-template-columns: 62px 1fr;
+    gap: var(--space-3);
+  }
+  .bag-row {
+    grid-template-columns: 54px 1fr auto;
+    gap: var(--space-3);
+  }
+  .bag-row img {
+    width: 54px;
+    height: 64px;
+  }
+}
+
+/* ── two cards to a row, both of them whole ──────────────────────────
+   Below 440px the shelf is two fixed columns, which leaves about 100px
+   inside a card for "Add to bag" beside the compare button — not enough,
+   so the label was being cut off mid-word. The button takes the full
+   width of the card instead, and comparing moves to the product page:
+   three bottles side by side is a desk job anyway, and the tray is still
+   reachable from any bottle. */
+@media (max-width: 440px) {
+  .card .row {
+    flex-wrap: wrap;
+  }
+  .card .row .b {
+    flex: 1 0 100%;
+    padding-inline: var(--space-3);
+  }
+  .card .row .cmp-b {
+    display: none;
+  }
+}
+
+/* ── the shop's two columns collapse cleanly ─────────────────────────
+   Below 900px the filter column sits above the shelf, and both are grid
+   items — so each carries an automatic minimum size equal to its own
+   min-content. The sort row's select ("Price · low to high") made that
+   wider than a 320px screen, which pushed the shelf out past the gutter.
+   Letting the items shrink, and the select shrink inside them, keeps the
+   whole shop inside its margins. */
+.shop-lay > * {
+  min-width: 0;
+}
+.shop-bar {
+  min-width: 0;
+}
+.shop-bar > div {
+  min-width: 0;
+}
+.shop-bar .cur-sel {
+  min-width: 0;
+  flex: 0 1 auto;
+  text-overflow: ellipsis;
+}
+
+/* ── keyboard users get the same ring everywhere ─────────────────────── */
+a:focus-visible,
+button:focus-visible,
+select:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+.dark a:focus-visible,
+.dark button:focus-visible,
+.site-foot a:focus-visible {
+  outline-color: var(--color-accent-300);
+}
+
+/* Skip link — visible only once it has focus. */
+.skip-to {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  z-index: 10001;
+  transform: translateY(-160%);
+  padding: 12px 18px;
+  background: var(--color-bg);
+  border: 1px solid var(--color-accent);
+  color: var(--color-text);
+  font-size: 12px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: transform 0.25s var(--ease);
+}
+.skip-to:focus {
+  transform: none;
+}
+
+/* ── images reserve their space ──────────────────────────────────────
+   Every packshot surface already has an aspect ratio, so nothing below it
+   moves when the file arrives. These are the two that did not. */
+.hero-shotwrap img.shot,
+.attar-stage img {
+  max-width: 100%;
+}
+
+/* ── reduced motion ─────────────────────────────────────────────────
+   The client asked for the full experience, so the decorative motion
+   stays. What goes is the motion nobody chose to watch: the endless
+   marquee, the slideshow's slow push and the card's chromatic flicker. */
+@media (prefers-reduced-motion: reduce) {
+  .marq-track {
+    animation: none;
+  }
+  .show-slide img,
+  .show-slide.on img {
+    transform: scale(1.04);
+    transition: none;
+  }
+  .show-rail button[aria-current='true'] span {
+    animation: none;
+    transform: scaleX(1);
+  }
+  .card:hover .ph img {
+    animation: none;
+  }
+}
+
+/* ── the admin door ──────────────────────────────────────────────────
+   The last link on the page, beside the copyright: quiet, on every page,
+   and nowhere near a customer's path through the shop. */
+.foot-admin {
+  font-size: 11px !important;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, #efece6 45%, transparent) !important;
+  border: 1px solid rgba(239, 236, 230, 0.2);
+  padding: 6px 12px;
+  border-radius: 2px;
+  transition:
+    color 0.3s,
+    border-color 0.3s;
+}
+.foot-admin:hover {
+  color: var(--color-accent-300) !important;
+  border-color: var(--color-accent-300);
+}
+@media (max-width: 560px) {
+  .foot-b {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+/* ── the family strip on the shop is a button, not a link ─────────────
+   It toggles a filter rather than navigating, so it has to be a button —
+   which means undoing the browser's own button styling to leave the tile
+   looking exactly as it did as an anchor. */
+button.fam-tile {
+  border: 0;
+  width: 100%;
+  text-align: left;
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+  cursor: pointer;
+}
+
+/* ── the footer's bottom rule on a narrow phone ──────────────────────
+   The payment badges are a nowrap row inside a wrapping one, so on a
+   320px screen the last of them ran past the gutter. */
+.pay {
+  flex-wrap: wrap;
+}

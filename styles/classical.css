@@ -1,5 +1,10 @@
 /* Classical — design-system tokens and component classes. This file is the source of truth for the system's look; retune it here and see readme.md. */
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Lora:wght@400;600&display=swap');
+
+/* The two typefaces are loaded by next/font in app/layout.tsx, which
+   self-hosts them and hands the family down as --font-cormorant and
+   --font-lora. That replaces the render-blocking Google Fonts @import this
+   file used to carry: same faces, one fewer network round trip, and no
+   flash of fallback text. */
 
 :root {
   --color-bg: #f3f2f2;
@@ -41,11 +46,11 @@
   --color-accent-2-800: #573d14;
   --color-accent-2-900: #382810;
 
-  --font-heading: "Cormorant Garamond", system-ui, sans-serif;
+  --font-heading: var(--font-cormorant), "Cormorant Garamond", Georgia, serif;
   --font-heading-weight: 600; /* review round 3: bold retired — semibold is the
      interface headings' ceiling (they need the weight at small sizes); display
      text goes lighter still, to the normal cut (see the deck) */
-  --font-body: "Lora", system-ui, sans-serif;
+  --font-body: var(--font-lora), "Lora", Georgia, serif;
 
   --space-1: 4.6px;
   --space-2: 9.2px;
