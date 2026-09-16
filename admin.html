@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" data-base="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Catalogue editor — Nisa Perfumes</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="assets/img/brand/favicon-32.png">
+<link rel="stylesheet" href="assets/css/classical.css">
+<link rel="stylesheet" href="assets/css/nisa.css">
+<script>(function(){try{var t=localStorage.getItem('nisa:theme');document.documentElement.setAttribute('data-theme',t==='dark'?'dark':'light');document.documentElement.classList.add('no-anim');}catch(e){}})();</script>
+</head>
+<body data-page="admin">
+
+<header style="border-bottom:1px solid var(--rule);padding:var(--space-4) var(--gut);display:flex;align-items:center;gap:var(--space-4);flex-wrap:wrap">
+  <span class="brand" style="margin:0"><img id="a-mark" src="assets/img/brand/nisa-mark-dark.png" alt="Nisa" style="height:34px;width:auto"></span>
+  <div style="margin-right:auto">
+    <strong style="font-family:var(--font-heading);font-size:22px;font-weight:400;display:block">Catalogue editor</strong>
+    <span class="small muted">Edit here, download, drop the file back into assets/js/</span>
+  </div>
+  <button class="b sm" id="a-theme"><span>Light / dark</span></button>
+  <button class="b sm" id="a-import"><span>Open a file</span></button>
+  <button class="b fill sm" id="a-save"><span>Download catalog.js</span></button>
+  <a class="b sm" href="index.html"><span>Back to the site</span></a>
+</header>
+
+<main class="wrap" style="padding-block:var(--space-6) 120px">
+  <div class="note" style="margin-bottom:var(--space-6)">
+    <strong>Two things to know.</strong> Nothing here saves by itself — your changes live in this browser tab
+    until you press <em>Download catalog.js</em> and replace <code>assets/js/catalog.js</code> with the file
+    you get. And there is no password on this page, so do not upload <code>admin.html</code> to your live
+    server (or rename it to something only you know).
+  </div>
+
+  <div class="admin-lay">
+    <aside>
+      <input class="in" id="a-q" placeholder="Search name, house, note…" aria-label="Search the catalogue">
+      <div style="display:flex;gap:6px;margin:var(--space-3) 0;flex-wrap:wrap">
+        <button class="b sm" id="a-new"><span>New product</span></button>
+        <span class="small muted" id="a-count" style="align-self:center"></span>
+      </div>
+      <div id="a-list" class="admin-list"></div>
+    </aside>
+    <section id="a-edit"></section>
+  </div>
+</main>
+
+<script src="assets/js/config.js"></script>
+<script src="assets/js/catalog.js"></script>
+<script src="assets/js/admin.js"></script>
+</body>
+</html>
