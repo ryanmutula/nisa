@@ -10,3 +10,8 @@ next-env.d.ts
 data/orders.json
 .DS_Store
 npm-debug.log*
+__pycache__/
+scripts/harvest.json
+scripts/matches.json
+scripts/images_report.json
+scripts/xl/

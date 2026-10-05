@@ -190,7 +190,16 @@ WhatsApp message to `+254 757 107862`. Orders never depended on it.
 ## 6. Editing the catalogue
 
 `lib/catalog.json` is the single source of truth — one object holding `brands`,
-`families` and `products`.
+`families` and `products`. It currently holds **150 perfumes from ten houses**,
+built from `scripts/Maven_Price_Matrix.xlsx` by the pipeline in `scripts/`
+(see `scripts/README.md`): every perfume Maven lists online, priced at
+Cierra's figure plus KSh 100. What is still outstanding — artwork,
+note pyramids, a handful of odd-looking prices — is listed in
+`docs-catalogue-gaps.md`.
+
+Editing a single product by hand in `lib/catalog.json` is fine; just know that
+re-running `python3 scripts/build_catalog.py` regenerates the file from
+`scripts/picks.json` and would overwrite it.
 
 ```jsonc
 {

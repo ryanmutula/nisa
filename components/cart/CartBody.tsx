@@ -26,7 +26,7 @@ export default function CartBody() {
       <div className="empty">
         <h2 className="d3">Nothing in the bag yet.</h2>
         <p className="muted">
-          Start with what the region is wearing, or dig into the attar library.
+          Start with what the region is wearing, or dig into the oud library.
         </p>
         <div
           style={{
@@ -40,7 +40,7 @@ export default function CartBody() {
           <Link className="b gold" href={shopUrl({ tag: 'bestseller' })}>
             <span>Bestsellers</span>
           </Link>
-          <Link className="b" href={shopUrl({ tag: 'attar' })}>
+          <Link className="b" href={shopUrl({ family: 'oud' })}>
             <span>Attars</span>
           </Link>
         </div>

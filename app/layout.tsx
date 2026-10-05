@@ -29,11 +29,11 @@ const lora = Lora({
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? 'https://nisaparfums.com'),
   title: {
-    default: 'Nisa Perfumes — Arabic attars, niche houses and designer fragrance in East Africa',
+    default: 'Nisa Perfumes — niche and luxury fragrance in East Africa',
     template: '%s — Nisa Perfumes'
   },
   description:
-    'Nisa Perfumes sources Arabic attars, niche houses and international designer fragrance at origin and distributes across Kenya, Uganda, Tanzania, Rwanda and Zambia.',
+    'Nisa Perfumes sources niche and luxury fragrance at origin — Parfums de Marly, Nishane, Roja, Ormonde Jayne, Xerjoff and more — and distributes across Kenya, Uganda, Tanzania, Rwanda and Zambia.',
   icons: { icon: '/assets/img/brand/favicon-32.png' },
   openGraph: {
     type: 'website',

@@ -30,8 +30,8 @@ export default function Footer() {
                 style={{ height: 54, width: 'auto', marginBottom: 18 }}
               />
               <p className="muted" style={{ maxWidth: '34ch', fontSize: 14 }}>
-                Arabic attars, niche houses and designer fragrance, sourced at origin and
-                distributed across Kenya, Uganda, Tanzania, Rwanda and Zambia.
+                Niche and luxury fragrance, sourced at origin and distributed across Kenya,
+                Uganda, Tanzania, Rwanda and Zambia.
               </p>
             </div>
 
@@ -45,7 +45,7 @@ export default function Footer() {
                   <Link href={shopUrl({ family: 'oud' })}>Oud &amp; incense</Link>
                 </li>
                 <li>
-                  <Link href={shopUrl({ tag: 'attar' })}>Attars</Link>
+                  <Link href={shopUrl({ family: 'gourmand' })}>Gourmand</Link>
                 </li>
                 <li>
                   <Link href={shopUrl({ tag: 'new' })}>New arrivals</Link>

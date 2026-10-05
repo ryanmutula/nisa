@@ -1,0 +1,1352 @@
+[
+ {
+  "id": "pdm-layton",
+  "brand": "Parfums de Marly",
+  "name": "Layton",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "pdm-layton-exclusif",
+  "brand": "Parfums de Marly",
+  "name": "Layton Exclusif",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "pdm-pegasus",
+  "brand": "Parfums de Marly",
+  "name": "Pegasus",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "pdm-althair",
+  "brand": "Parfums de Marly",
+  "name": "Althair",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "pdm-herod",
+  "brand": "Parfums de Marly",
+  "name": "Herod",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "pdm-delina",
+  "brand": "Parfums de Marly",
+  "name": "Delina",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "pdm-delina-exclusif",
+  "brand": "Parfums de Marly",
+  "name": "Delina Exclusif",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "pdm-valaya",
+  "brand": "Parfums de Marly",
+  "name": "Valaya",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "pdm-valaya-exclusif",
+  "brand": "Parfums de Marly",
+  "name": "Valaya Exclusif",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "pdm-carlisle",
+  "brand": "Parfums de Marly",
+  "name": "Carlisle",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "pdm-cassili",
+  "brand": "Parfums de Marly",
+  "name": "Cassili",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "pdm-godolphin",
+  "brand": "Parfums de Marly",
+  "name": "Godolphin",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "pdm-habdan",
+  "brand": "Parfums de Marly",
+  "name": "Habdan",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "pdm-sedley",
+  "brand": "Parfums de Marly",
+  "name": "Sedley",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "pdm-oajan",
+  "brand": "Parfums de Marly",
+  "name": "Oajan",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "pdm-oriana",
+  "brand": "Parfums de Marly",
+  "name": "Oriana",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "pdm-safanad",
+  "brand": "Parfums de Marly",
+  "name": "Safanad",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "pdm-meliora",
+  "brand": "Parfums de Marly",
+  "name": "Meliora",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "pdm-palatine",
+  "brand": "Parfums de Marly",
+  "name": "Palatine",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "pdm-perseus",
+  "brand": "Parfums de Marly",
+  "name": "Perseus",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "pdm-kalan",
+  "brand": "Parfums de Marly",
+  "name": "Kalan",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "pdm-percival",
+  "brand": "Parfums de Marly",
+  "name": "Percival",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "pdm-haltane",
+  "brand": "Parfums de Marly",
+  "name": "Haltane",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "oj-babylonia",
+  "brand": "Ormonde Jayne",
+  "name": "Babylonia",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "oj-byzance",
+  "brand": "Ormonde Jayne",
+  "name": "Byzance",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "oj-kashmir",
+  "brand": "Ormonde Jayne",
+  "name": "Kashmir",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "oj-vetiveria",
+  "brand": "Ormonde Jayne",
+  "name": "Vetiveria",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "oj-bukhara",
+  "brand": "Ormonde Jayne",
+  "name": "Bukhara",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "oj-damask",
+  "brand": "Ormonde Jayne",
+  "name": "Damask",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "oj-muscat",
+  "brand": "Ormonde Jayne",
+  "name": "Muscat",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "oj-sakura",
+  "brand": "Ormonde Jayne",
+  "name": "Sakura",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "oj-verano",
+  "brand": "Ormonde Jayne",
+  "name": "Verano",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "oj-ambre-royal",
+  "brand": "Ormonde Jayne",
+  "name": "Ambre Royal",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "oj-ormonde-man",
+  "brand": "Ormonde Jayne",
+  "name": "Ormonde Man",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "oj-ormonde-woman",
+  "brand": "Ormonde Jayne",
+  "name": "Ormonde Woman",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "oj-osmanthus",
+  "brand": "Ormonde Jayne",
+  "name": "Osmanthus",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "oj-montabaco-intensivo-parfum",
+  "brand": "Ormonde Jayne",
+  "name": "Montabaco Intensivo",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "oj-champaca",
+  "brand": "Ormonde Jayne",
+  "name": "Champaca",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "oj-frangipani",
+  "brand": "Ormonde Jayne",
+  "name": "Frangipani",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "oj-isfarkand",
+  "brand": "Ormonde Jayne",
+  "name": "Isfarkand",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "oj-qi-intensivo",
+  "brand": "Ormonde Jayne",
+  "name": "Qi Intensivo",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "oj-vanille-des-afriques-intensivo",
+  "brand": "Ormonde Jayne",
+  "name": "Vanille des Afriques Intensivo",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "nishane-afrika-olifant",
+  "brand": "Nishane",
+  "name": "Afrika-Olifant",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "nishane-ambra-calabria",
+  "brand": "Nishane",
+  "name": "Ambra Calabria",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "nishane-ani",
+  "brand": "Nishane",
+  "name": "Ani",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "nishane-deziro",
+  "brand": "Nishane",
+  "name": "Deziro",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "nishane-fan-your-flames",
+  "brand": "Nishane",
+  "name": "Fan Your Flames",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "nishane-hacivat",
+  "brand": "Nishane",
+  "name": "Hacivat",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "nishane-hacivat-x",
+  "brand": "Nishane",
+  "name": "Hacivat X",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "nishane-hacivat-oud",
+  "brand": "Nishane",
+  "name": "Hacivat Oud",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "nishane-hundred-silent-ways",
+  "brand": "Nishane",
+  "name": "Hundred Silent Ways",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": true
+ },
+ {
+  "id": "nishane-karagoz",
+  "brand": "Nishane",
+  "name": "Karagoz",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "nishane-kredo",
+  "brand": "Nishane",
+  "name": "Kredo",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "nishane-nefs",
+  "brand": "Nishane",
+  "name": "Nefs",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "nishane-papilefiko",
+  "brand": "Nishane",
+  "name": "Papilefiko",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "nishane-shem",
+  "brand": "Nishane",
+  "name": "Shem",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "nishane-suede-et-safran",
+  "brand": "Nishane",
+  "name": "Suede et Safran",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "nishane-tempfluo",
+  "brand": "Nishane",
+  "name": "Tempfluo",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "nishane-tero",
+  "brand": "Nishane",
+  "name": "Tero",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "nishane-tuberoza",
+  "brand": "Nishane",
+  "name": "Tuberóza",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "nishane-wulong-cha",
+  "brand": "Nishane",
+  "name": "Wulong Cha",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "nishane-wulong-cha-x",
+  "brand": "Nishane",
+  "name": "Wulong Cha X",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "roja-amber-aoud",
+  "brand": "Roja Parfums",
+  "name": "Amber Aoud",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "roja-aoud",
+  "brand": "Roja Parfums",
+  "name": "Aoud",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "roja-apex",
+  "brand": "Roja Parfums",
+  "name": "Apex",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "roja-diaghilev",
+  "brand": "Roja Parfums",
+  "name": "Diaghilev",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "roja-elixir-pour-femme",
+  "brand": "Roja Parfums",
+  "name": "Elixir Pour Femme",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "roja-elysium",
+  "brand": "Roja Parfums",
+  "name": "Elysium",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "roja-elysium-pour-femme",
+  "brand": "Roja Parfums",
+  "name": "Elysium Pour Femme",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "roja-elysium-pour-homme",
+  "brand": "Roja Parfums",
+  "name": "Elysium Pour Homme",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "roja-elysium-pour-homme-parfum",
+  "brand": "Roja Parfums",
+  "name": "Elysium Pour Homme",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "roja-enigma",
+  "brand": "Roja Parfums",
+  "name": "Enigma",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "roja-enigma-aoud-pour-femme",
+  "brand": "Roja Parfums",
+  "name": "Enigma Aoud Pour Femme",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "roja-enigma-pour-homme",
+  "brand": "Roja Parfums",
+  "name": "Enigma Pour Homme",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": true
+ },
+ {
+  "id": "roja-isola-blu",
+  "brand": "Roja Parfums",
+  "name": "Isola Blu",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "roja-isola-verde",
+  "brand": "Roja Parfums",
+  "name": "Isola Verde",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "roja-manhattan",
+  "brand": "Roja Parfums",
+  "name": "Manhattan",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "roja-parfum-de-la-nuit",
+  "brand": "Roja Parfums",
+  "name": "Parfum de la Nuit",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "roja-reckless",
+  "brand": "Roja Parfums",
+  "name": "Reckless",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "roja-scandal",
+  "brand": "Roja Parfums",
+  "name": "Scandal",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "initio-absolute-aphrodisiac",
+  "brand": "Initio Parfums Privés",
+  "name": "Absolute Aphrodisiac",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "initio-atomic-rose",
+  "brand": "Initio Parfums Privés",
+  "name": "Atomic Rose",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "initio-blessed-baraka",
+  "brand": "Initio Parfums Privés",
+  "name": "Blessed Baraka",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": true
+ },
+ {
+  "id": "initio-high-frequency",
+  "brand": "Initio Parfums Privés",
+  "name": "High Frequency",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "initio-musk-therapy",
+  "brand": "Initio Parfums Privés",
+  "name": "Musk Therapy",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "initio-mystic-experience",
+  "brand": "Initio Parfums Privés",
+  "name": "Mystic Experience",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "initio-narcotic-delight",
+  "brand": "Initio Parfums Privés",
+  "name": "Narcotic Delight",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "initio-oud-for-greatness",
+  "brand": "Initio Parfums Privés",
+  "name": "Oud for Greatness",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "initio-oud-for-greatness-neo",
+  "brand": "Initio Parfums Privés",
+  "name": "Oud for Greatness Neo",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "initio-oud-for-happiness",
+  "brand": "Initio Parfums Privés",
+  "name": "Oud for Happiness",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "initio-paragon",
+  "brand": "Initio Parfums Privés",
+  "name": "Paragon",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": true
+ },
+ {
+  "id": "initio-power-self",
+  "brand": "Initio Parfums Privés",
+  "name": "Power Self",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "initio-psychedelic-love",
+  "brand": "Initio Parfums Privés",
+  "name": "Psychedelic Love",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "initio-rehab",
+  "brand": "Initio Parfums Privés",
+  "name": "Rehab",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "mancera-amore-caffe",
+  "brand": "Mancera",
+  "name": "Amore Caffe",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "mancera-aoud-orchid",
+  "brand": "Mancera",
+  "name": "Aoud Orchid",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "mancera-cedrat-boise",
+  "brand": "Mancera",
+  "name": "Cedrat Boise",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "mancera-cosmic-pepper",
+  "brand": "Mancera",
+  "name": "Cosmic Pepper",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "mancera-french-riviera",
+  "brand": "Mancera",
+  "name": "French Riviera",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "mancera-hindu-kush",
+  "brand": "Mancera",
+  "name": "Hindu Kush",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "mancera-instant-crush",
+  "brand": "Mancera",
+  "name": "Instant Crush",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "mancera-intense-french-riviera",
+  "brand": "Mancera",
+  "name": "Intense French Riviera",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "mancera-melody-of-the-sun",
+  "brand": "Mancera",
+  "name": "Melody of the Sun",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "mancera-roses-greedy",
+  "brand": "Mancera",
+  "name": "Roses Greedy",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "mancera-roses-vanille",
+  "brand": "Mancera",
+  "name": "Roses Vanille",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "mancera-sicily",
+  "brand": "Mancera",
+  "name": "Sicily",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "mancera-tonka-cola",
+  "brand": "Mancera",
+  "name": "Tonka Cola",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "mancera-xplicit-vanilla",
+  "brand": "Mancera",
+  "name": "Xplicit Vanilla",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "xerjoff-17-17-damarose",
+  "brand": "Xerjoff",
+  "name": "17/17 Damarose",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "xerjoff-1861-naxos",
+  "brand": "Xerjoff",
+  "name": "1861 Naxos",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "xerjoff-atp-torino-24",
+  "brand": "Xerjoff",
+  "name": "ATP Torino 24",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "xerjoff-atp-torino-25",
+  "brand": "Xerjoff",
+  "name": "ATP Torino 25",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "xerjoff-comandante",
+  "brand": "Xerjoff",
+  "name": "Comandante",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "xerjoff-don",
+  "brand": "Xerjoff",
+  "name": "Don",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "xerjoff-ouverture",
+  "brand": "Xerjoff",
+  "name": "Ouverture",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "xerjoff-v-accento",
+  "brand": "Xerjoff",
+  "name": "V Accento",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "xerjoff-erba-gold",
+  "brand": "Xerjoff",
+  "name": "Erba Gold",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "xerjoff-erba-pura",
+  "brand": "Xerjoff",
+  "name": "Erba Pura",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "xerjoff-purple-accento",
+  "brand": "Xerjoff",
+  "name": "Purple Accento",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "xerjoff-zefiro",
+  "brand": "Xerjoff",
+  "name": "Zefiro",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "montale-black-aoud",
+  "brand": "Montale",
+  "name": "Black Aoud",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "montale-starry-nights",
+  "brand": "Montale",
+  "name": "Starry Nights",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "montale-intense-starry-nights",
+  "brand": "Montale",
+  "name": "Intense Starry Nights",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "montale-arabians-tonka",
+  "brand": "Montale",
+  "name": "Arabians Tonka",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "montale-arabians",
+  "brand": "Montale",
+  "name": "Arabians",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "montale-chocolate-greedy",
+  "brand": "Montale",
+  "name": "Chocolate Greedy",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "montale-roses-musk",
+  "brand": "Montale",
+  "name": "Roses Musk",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": true
+ },
+ {
+  "id": "montale-crazy-in-love",
+  "brand": "Montale",
+  "name": "Crazy in Love",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "montale-intense-cafe-ristretto",
+  "brand": "Montale",
+  "name": "Intense Cafe Ristretto",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "montale-sensual-instinct",
+  "brand": "Montale",
+  "name": "Sensual Instinct",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "montale-oudyssee",
+  "brand": "Montale",
+  "name": "Oudyssee",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "montale-wood-spices",
+  "brand": "Montale",
+  "name": "Wood & Spices",
+  "notes": "authored",
+  "description": "authored",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "tiziana-andromeda",
+  "brand": "Tiziana Terenzi",
+  "name": "Andromeda",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "tiziana-draco",
+  "brand": "Tiziana Terenzi",
+  "name": "Draco",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "tiziana-gold-rose-oudh",
+  "brand": "Tiziana Terenzi",
+  "name": "Gold Rose Oudh",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "tiziana-halley",
+  "brand": "Tiziana Terenzi",
+  "name": "Halley",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "tiziana-kirke",
+  "brand": "Tiziana Terenzi",
+  "name": "Kirke",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "tiziana-laudano-nero",
+  "brand": "Tiziana Terenzi",
+  "name": "Laudano Nero",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "tiziana-rosso-pompei",
+  "brand": "Tiziana Terenzi",
+  "name": "Rosso Pompei",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "tiziana-spirito-fiorentino",
+  "brand": "Tiziana Terenzi",
+  "name": "Spirito Fiorentino",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "tiziana-tabit",
+  "brand": "Tiziana Terenzi",
+  "name": "Tabit",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "tiziana-ursa",
+  "brand": "Tiziana Terenzi",
+  "name": "Ursa",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "ado-bois-sikar",
+  "brand": "Atelier des Ors",
+  "name": "Bois Sikar",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "ado-cuir-sacre",
+  "brand": "Atelier des Ors",
+  "name": "Cuir Sacre",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "ado-iris-fauve",
+  "brand": "Atelier des Ors",
+  "name": "Iris Fauve",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "ado-lune-feline",
+  "brand": "Atelier des Ors",
+  "name": "Lune Feline",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "ado-noir-by-night",
+  "brand": "Atelier des Ors",
+  "name": "Noir by Night",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ },
+ {
+  "id": "ado-novae-vanilla",
+  "brand": "Atelier des Ors",
+  "name": "Novae Vanilla",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "ado-rose-omeyyade",
+  "brand": "Atelier des Ors",
+  "name": "Rose Omeyyade",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": true,
+  "art": false
+ },
+ {
+  "id": "ado-rouge-saray",
+  "brand": "Atelier des Ors",
+  "name": "Rouge Saray",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": false
+ }
+]

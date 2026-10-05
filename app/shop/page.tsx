@@ -9,7 +9,7 @@ import { routes } from '@/lib/routes';
 export const metadata: Metadata = {
   title: 'Shop all fragrance',
   description:
-    'Eighty-seven fragrances from eleven houses — Amouage, Parfums de Marly, Nishane, Roja, Mancera, Casamorati, Goldfield & Banks, Initio, Montale, Afnan and Ajmal.'
+    'A hundred and fifty fragrances from ten houses — Parfums de Marly, Nishane, Ormonde Jayne, Roja, Mancera, Montale, Initio, Xerjoff, Tiziana Terenzi and Atelier des Ors.'
 };
 
 export default function ShopPage() {
@@ -22,7 +22,7 @@ export default function ShopPage() {
       <section className="wrap" style={{ paddingBottom: 'var(--space-8)' }}>
         <div data-r style={{ maxWidth: '34ch' }}>
           <p className="kicker">The shelf</p>
-          <h1 className="d2">Eleven houses, one room.</h1>
+          <h1 className="d2">Ten houses, one room.</h1>
           <p className="muted" style={{ marginTop: 'var(--space-3)' }}>
             Pick a house, a family, or just scroll. Every price shown includes duty and is stocked
             in Nairobi unless flagged otherwise.

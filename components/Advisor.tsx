@@ -37,7 +37,7 @@ const BLANK: Answers = { forWho: '', fams: [], loud: '', budget: 0, loves: '' };
 const LOUD_RANK: Record<string, string[]> = {
   quiet: ['eau de toilette', 'eau de parfum'],
   mid: ['eau de parfum'],
-  loud: ['extrait', 'parfum', 'attar']
+  loud: ['extrait', 'parfum']
 };
 
 interface Hit {

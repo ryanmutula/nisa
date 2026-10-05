@@ -1,0 +1,5651 @@
+[
+ {
+  "id": "pdm-layton",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Layton",
+  "gender": "men",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 200,
+    "price": 43500
+   }
+  ],
+  "notes": {
+   "top": [
+    "Apple",
+    "Bergamot",
+    "Mandarin",
+    "Lavender"
+   ],
+   "heart": [
+    "Geranium",
+    "Violet",
+    "Jasmine"
+   ],
+   "base": [
+    "Vanilla",
+    "Cardamom",
+    "Sandalwood",
+    "Guaiac Wood",
+    "Patchouli",
+    "Pepper"
+   ]
+  },
+  "description": "The one the whole region asks for by name. Apple and lavender over a vanilla that never quite finishes.",
+  "tags": [
+   "bestseller",
+   "signature"
+  ],
+  "notesSure": true,
+  "sourceRows": [
+   "PDM LAYTON EDP 125ML",
+   "PDM LAYTON EDP 200ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-layton-exclusif",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Layton Exclusif",
+  "gender": "men",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 125,
+    "price": 50800
+   }
+  ],
+  "notes": {
+   "top": [
+    "Apple",
+    "Cardamom",
+    "Bergamot"
+   ],
+   "heart": [
+    "Lavender",
+    "Jasmine",
+    "Orris"
+   ],
+   "base": [
+    "Vanilla",
+    "Sandalwood",
+    "Incense",
+    "Patchouli"
+   ]
+  },
+  "description": "Layton with the lights down: the same apple opening, resolved into incense and sandalwood instead of sugar.",
+  "tags": [
+   "signature"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "PDM LAYTON EXCLUSIF EDP 125ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-pegasus",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Pegasus",
+  "gender": "men",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 200,
+    "price": 39700
+   }
+  ],
+  "notes": {
+   "top": [
+    "Bitter Almond",
+    "Bergamot",
+    "Lavender"
+   ],
+   "heart": [
+    "Heliotrope",
+    "Jasmine",
+    "Orange Blossom"
+   ],
+   "base": [
+    "Vanilla",
+    "Sandalwood",
+    "Vetiver",
+    "Amberwood"
+   ]
+  },
+  "description": "Almond and heliotrope done without a trace of dessert. The quietest way to be noticed.",
+  "tags": [
+   "bestseller"
+  ],
+  "notesSure": true,
+  "sourceRows": [
+   "PDM PEGASUS EDP 125ML",
+   "PDM PEGASUS EDP 200ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-althair",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Althair",
+  "gender": "men",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 125,
+    "price": 51700
+   }
+  ],
+  "notes": {
+   "top": [
+    "Bergamot",
+    "Almond",
+    "Lavender"
+   ],
+   "heart": [
+    "Vanilla",
+    "Cinnamon",
+    "Orange Blossom"
+   ],
+   "base": [
+    "Sandalwood",
+    "Cedar",
+    "Tonka Bean"
+   ]
+  },
+  "description": "Vanilla with its sleeves rolled up — warm, powdery, and far more masculine than it reads on paper.",
+  "tags": [
+   "bestseller"
+  ],
+  "notesSure": true,
+  "sourceRows": [
+   "PDM ALTHAIR EDP 125ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-herod",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Herod",
+  "gender": "men",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 125,
+    "price": 42000
+   }
+  ],
+  "notes": {
+   "top": [
+    "Cinnamon",
+    "Pepper",
+    "Osmanthus"
+   ],
+   "heart": [
+    "Tobacco Leaf",
+    "Olibanum"
+   ],
+   "base": [
+    "Vanilla",
+    "Vetiver",
+    "Labdanum",
+    "Cedar"
+   ]
+  },
+  "description": "Sweet tobacco and cinnamon. The cold-weather bottle people buy in Nairobi for the Nakuru evenings.",
+  "tags": [
+   "bestseller",
+   "signature"
+  ],
+  "notesSure": true,
+  "sourceRows": [
+   "PDM HEROD EDP 125ML",
+   "PDM HEROD EDP 75ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-delina",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Delina",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 75,
+    "price": 48000
+   },
+   {
+    "ml": 30,
+    "price": 15200
+   }
+  ],
+  "notes": {
+   "top": [
+    "Rhubarb",
+    "Litchi",
+    "Bergamot"
+   ],
+   "heart": [
+    "Turkish Rose",
+    "Peony",
+    "Lily of the Valley"
+   ],
+   "base": [
+    "Vanilla",
+    "Musk",
+    "Cashmeran",
+    "Incense"
+   ]
+  },
+  "description": "The modern rose: rhubarb and lychee keeping it bright, cashmeran keeping it close to the skin all day.",
+  "tags": [
+   "bestseller",
+   "women"
+  ],
+  "notesSure": true,
+  "sourceRows": [
+   "PDM DELINA EDP 30ML",
+   "PDM DELINA EDP 75ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-delina-exclusif",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Delina Exclusif",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 75,
+    "price": 51800
+   }
+  ],
+  "notes": {
+   "top": [
+    "Litchi",
+    "Rhubarb",
+    "Bergamot"
+   ],
+   "heart": [
+    "Turkish Rose",
+    "Peony",
+    "Orris"
+   ],
+   "base": [
+    "Vanilla",
+    "Musk",
+    "Vetiver",
+    "Cashmeran"
+   ]
+  },
+  "description": "Delina with the volume up and the sugar down. Rose, still, but wearing a heavier coat.",
+  "tags": [
+   "women",
+   "rare"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "PDM DELINA EXCLUSIF EDP 30MI",
+   "PDM DELINA EXCLUSIF EDP 75ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-valaya",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Valaya",
+  "gender": "women",
+  "family": "musk",
+  "familyLabel": "Musk & Skin",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 75,
+    "price": 49600
+   }
+  ],
+  "notes": {
+   "top": [
+    "Bergamot",
+    "Pink Pepper",
+    "Mandarin"
+   ],
+   "heart": [
+    "Orange Blossom",
+    "Jasmine",
+    "Neroli"
+   ],
+   "base": [
+    "White Musk",
+    "Vanilla",
+    "Cashmeran"
+   ]
+  },
+  "description": "Clean laundry made expensive. White musk and orange blossom, nothing shouting, everything noticed.",
+  "tags": [
+   "women",
+   "bestseller"
+  ],
+  "notesSure": true,
+  "sourceRows": [
+   "PDM VALAYA EDP 30ML",
+   "PDM VALAYA EDP 75ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-valaya-exclusif",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Valaya Exclusif",
+  "gender": "women",
+  "family": "musk",
+  "familyLabel": "Musk & Skin",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 75,
+    "price": 54000
+   }
+  ],
+  "notes": {
+   "top": [
+    "Bergamot",
+    "Pear",
+    "Pink Pepper"
+   ],
+   "heart": [
+    "Orange Blossom",
+    "Jasmine",
+    "Tuberose"
+   ],
+   "base": [
+    "White Musk",
+    "Vanilla",
+    "Sandalwood"
+   ]
+  },
+  "description": "The same soft musk, richer in the base. For the evening version of the same day.",
+  "tags": [
+   "women"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "PDM VALAYA EXCLUSIF EDP 30ML",
+   "PDM VALAYA EXCLUSIF EDP 75ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-carlisle",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Carlisle",
+  "gender": "men",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 125,
+    "price": 55800
+   }
+  ],
+  "notes": {
+   "top": [
+    "Bergamot",
+    "Apple",
+    "Nutmeg"
+   ],
+   "heart": [
+    "Cinnamon",
+    "Jasmine",
+    "Patchouli"
+   ],
+   "base": [
+    "Vanilla",
+    "Amber",
+    "Sandalwood",
+    "Tonka Bean"
+   ]
+  },
+  "description": "Spiced apple over amber — Layton's older cousin, drier and considerably more serious.",
+  "tags": [
+   "signature"
+  ],
+  "notesSure": true,
+  "sourceRows": [
+   "PDM CARLISLE EDP 125ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-cassili",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Cassili",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 75,
+    "price": 48000
+   }
+  ],
+  "notes": {
+   "top": [
+    "Mandarin",
+    "Pear",
+    "Davana"
+   ],
+   "heart": [
+    "Jasmine",
+    "Orange Blossom",
+    "Rose"
+   ],
+   "base": [
+    "Vanilla",
+    "Musk",
+    "Sandalwood"
+   ]
+  },
+  "description": "Pear and jasmine, lifted and kept there. The daytime bottle in a house known for evenings.",
+  "tags": [
+   "women"
+  ],
+  "notesSure": true,
+  "sourceRows": [
+   "PDM CASSILI EDP 75ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-godolphin",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Godolphin",
+  "gender": "men",
+  "family": "leather",
+  "familyLabel": "Leather & Suede",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 125,
+    "price": 38000
+   }
+  ],
+  "notes": {
+   "top": [
+    "Saffron",
+    "Bergamot",
+    "Mandarin"
+   ],
+   "heart": [
+    "Orange Blossom",
+    "Cypress",
+    "Clary Sage"
+   ],
+   "base": [
+    "Leather",
+    "Oud",
+    "Patchouli",
+    "Sandalwood"
+   ]
+  },
+  "description": "Saffron and leather with the oud kept on a short leash. A suit, not a statement.",
+  "tags": [
+   "leather"
+  ],
+  "notesSure": true,
+  "sourceRows": [
+   "PDM GODOLPHIN EDP 125ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-habdan",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Habdan",
+  "gender": "unisex",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 125,
+    "price": 44000
+   }
+  ],
+  "notes": {
+   "top": [
+    "Bergamot",
+    "Cinnamon",
+    "Pink Pepper"
+   ],
+   "heart": [
+    "Incense",
+    "Rose",
+    "Jasmine"
+   ],
+   "base": [
+    "Oud",
+    "Vanilla",
+    "Benzoin",
+    "Patchouli"
+   ]
+  },
+  "description": "The house's Arabian register: rose and incense folded into oud, built for a climate that eats soft fragrance.",
+  "tags": [
+   "oud"
+  ],
+  "notesSure": true,
+  "sourceRows": [
+   "PDM HABDAN EDP 125ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-sedley",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Sedley",
+  "gender": "unisex",
+  "family": "fresh",
+  "familyLabel": "Fresh & Aquatic",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 125,
+    "price": 33800
+   }
+  ],
+  "notes": {
+   "top": [
+    "Watermint",
+    "Bergamot",
+    "Mandarin"
+   ],
+   "heart": [
+    "Lavender",
+    "Geranium",
+    "Violet Leaf"
+   ],
+   "base": [
+    "Vetiver",
+    "White Musk",
+    "Amber"
+   ]
+  },
+  "description": "Cold mint and vetiver. The answer when someone says they want something for Mombasa.",
+  "tags": [
+   "fresh",
+   "office"
+  ],
+  "notesSure": true,
+  "sourceRows": [
+   "PDM SEDLEY EDP 125ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-oajan",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Oajan",
+  "gender": "unisex",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 125,
+    "price": 41600
+   }
+  ],
+  "notes": {
+   "top": [
+    "Pear",
+    "Saffron",
+    "Cinnamon"
+   ],
+   "heart": [
+    "Oud",
+    "Rose",
+    "Honey"
+   ],
+   "base": [
+    "Vanilla",
+    "Musk",
+    "Sandalwood"
+   ]
+  },
+  "description": "Honeyed pear over oud — the sweet end of the Arabian shelf, and the easiest of them to wear.",
+  "tags": [
+   "oud"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "PDM OAJAN EDP 125ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-oriana",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Oriana",
+  "gender": "women",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 75,
+    "price": 42600
+   }
+  ],
+  "notes": {
+   "top": [
+    "Blackcurrant",
+    "Guava",
+    "Litchi"
+   ],
+   "heart": [
+    "Jasmine",
+    "Lily of the Valley",
+    "Orange Blossom"
+   ],
+   "base": [
+    "Vanilla",
+    "White Musk",
+    "Sandalwood"
+   ]
+  },
+  "description": "Guava and blackcurrant, unapologetically fruity, held together by a musk that keeps it from being a cordial.",
+  "tags": [
+   "women",
+   "new"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "PDM ORIANA EDP 75ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-safanad",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Safanad",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 75,
+    "price": 35800
+   }
+  ],
+  "notes": {
+   "top": [
+    "Pear",
+    "Orange Blossom",
+    "Bergamot"
+   ],
+   "heart": [
+    "Iris",
+    "Jasmine",
+    "Ylang-Ylang"
+   ],
+   "base": [
+    "Vanilla",
+    "Sandalwood",
+    "Cedar"
+   ]
+  },
+  "description": "Iris done warm instead of cold — pear and orange blossom over a powdery sandalwood.",
+  "tags": [
+   "women"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "PDM SAFANAD EDP 75ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-meliora",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Meliora",
+  "gender": "women",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 75,
+    "price": 45000
+   }
+  ],
+  "notes": {
+   "top": [
+    "Pear",
+    "Honey",
+    "Bergamot"
+   ],
+   "heart": [
+    "Orange Blossom",
+    "Jasmine",
+    "Heliotrope"
+   ],
+   "base": [
+    "Vanilla",
+    "Sandalwood",
+    "White Musk"
+   ]
+  },
+  "description": "Honey and pear kept just this side of edible. Soft, close, and difficult to put down.",
+  "tags": [
+   "women",
+   "new"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "PDM MELIORA EDP 75ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-palatine",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Palatine",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 75,
+    "price": 51000
+   }
+  ],
+  "notes": {
+   "top": [
+    "Pear",
+    "Bergamot",
+    "Pink Pepper"
+   ],
+   "heart": [
+    "Tuberose",
+    "Jasmine",
+    "Orange Blossom"
+   ],
+   "base": [
+    "Vanilla",
+    "Musk",
+    "Sandalwood"
+   ]
+  },
+  "description": "White flowers at full volume, with a vanilla base doing the talking after the first hour.",
+  "tags": [
+   "women",
+   "new"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "PDM PALATINE EDP 30ML",
+   "PDM PALATINE EDP 75ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-perseus",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Perseus",
+  "gender": "men",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 125,
+    "price": 55400
+   }
+  ],
+  "notes": {
+   "top": [
+    "Bergamot",
+    "Mint",
+    "Grapefruit"
+   ],
+   "heart": [
+    "Lavender",
+    "Geranium",
+    "Nutmeg"
+   ],
+   "base": [
+    "Vetiver",
+    "Cedar",
+    "Amberwood",
+    "Musk"
+   ]
+  },
+  "description": "Clean and green at the top, dry wood underneath. The least sweet thing the house makes.",
+  "tags": [
+   "new",
+   "office"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "PDM PERSEUS EDP 125ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-kalan",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Kalan",
+  "gender": "unisex",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 125,
+    "price": 39800
+   }
+  ],
+  "notes": {
+   "top": [
+    "Bergamot",
+    "Apple",
+    "Cinnamon"
+   ],
+   "heart": [
+    "Lavender",
+    "Rum",
+    "Orange Blossom"
+   ],
+   "base": [
+    "Vanilla",
+    "Tonka Bean",
+    "Sandalwood"
+   ]
+  },
+  "description": "Rum and cinnamon over vanilla — the house at its most convivial.",
+  "tags": [
+   "signature"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "PDM KALAN EDP 125ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-percival",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Percival",
+  "gender": "men",
+  "family": "fresh",
+  "familyLabel": "Fresh & Aquatic",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 200,
+    "price": 48000
+   }
+  ],
+  "notes": {
+   "top": [
+    "Bergamot",
+    "Lavender",
+    "Pink Pepper"
+   ],
+   "heart": [
+    "Jasmine",
+    "Violet",
+    "Orris"
+   ],
+   "base": [
+    "Ambergris",
+    "Cedar",
+    "White Musk"
+   ]
+  },
+  "description": "Lavender kept crisp instead of soapy, over ambergris. Office-safe without being invisible.",
+  "tags": [
+   "office"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "PDM PERCIVAL EDP 125ML",
+   "PDM PERCIVAL EDP 200ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "pdm-haltane",
+  "brand": "Parfums de Marly",
+  "brandSlug": "pdm",
+  "name": "Haltane",
+  "gender": "men",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 125,
+    "price": 55800
+   }
+  ],
+  "notes": {
+   "top": [
+    "Juniper Berries",
+    "Bergamot",
+    "Pink Pepper"
+   ],
+   "heart": [
+    "Lavender",
+    "Geranium",
+    "Nutmeg"
+   ],
+   "base": [
+    "Vetiver",
+    "Cedar",
+    "Amberwood",
+    "Musk"
+   ]
+  },
+  "description": "Juniper and vetiver, dry as a gin and twice as persistent. The newest face of the house.",
+  "tags": [
+   "new"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "PDM HALTANE EDP 125ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "oj-babylonia",
+  "brand": "Ormonde Jayne",
+  "brandSlug": "oj",
+  "name": "Babylonia",
+  "gender": "unisex",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 88,
+    "price": 24400
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "OJ EDP 88ML  BABYLONIA"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "oj-byzance",
+  "brand": "Ormonde Jayne",
+  "brandSlug": "oj",
+  "name": "Byzance",
+  "gender": "unisex",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 88,
+    "price": 26600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "OJ EDP 88ML  BYZANCE"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "oj-kashmir",
+  "brand": "Ormonde Jayne",
+  "brandSlug": "oj",
+  "name": "Kashmir",
+  "gender": "unisex",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 88,
+    "price": 30300
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "OJ EDP 88ML  KASHMIR"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "oj-vetiveria",
+  "brand": "Ormonde Jayne",
+  "brandSlug": "oj",
+  "name": "Vetiveria",
+  "gender": "unisex",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 88,
+    "price": 34600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "OJ EDP 88ML  VETIVERIA"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "oj-bukhara",
+  "brand": "Ormonde Jayne",
+  "brandSlug": "oj",
+  "name": "Bukhara",
+  "gender": "unisex",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 88,
+    "price": 30300
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "OJ EDP 88ML - BUKHARA"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "oj-damask",
+  "brand": "Ormonde Jayne",
+  "brandSlug": "oj",
+  "name": "Damask",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 88,
+    "price": 36600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "OJ EDP 88ML - DAMASK"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "oj-muscat",
+  "brand": "Ormonde Jayne",
+  "brandSlug": "oj",
+  "name": "Muscat",
+  "gender": "unisex",
+  "family": "citrus",
+  "familyLabel": "Citrus",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 88,
+    "price": 30300
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "OJ EDP 88ML - MUSCAT"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "oj-sakura",
+  "brand": "Ormonde Jayne",
+  "brandSlug": "oj",
+  "name": "Sakura",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 88,
+    "price": 34100
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "OJ EDP 88ML SAKURA"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "oj-verano",
+  "brand": "Ormonde Jayne",
+  "brandSlug": "oj",
+  "name": "Verano",
+  "gender": "unisex",
+  "family": "citrus",
+  "familyLabel": "Citrus",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 88,
+    "price": 26400
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "OJ EDP 88ML VERANO"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "oj-ambre-royal",
+  "brand": "Ormonde Jayne",
+  "brandSlug": "oj",
+  "name": "Ambre Royal",
+  "gender": "unisex",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 120,
+    "price": 33600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "OJ EDP AMBRE ROYAL 120ML",
+   "OJ EDP AMBRE ROYAL 50ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "oj-ormonde-man",
+  "brand": "Ormonde Jayne",
+  "brandSlug": "oj",
+  "name": "Ormonde Man",
+  "gender": "men",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 120,
+    "price": 41600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "OJ EDP ORMONDE MAN 120ML",
+   "OJ EDP ORMONDE MAN 50ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "oj-ormonde-woman",
+  "brand": "Ormonde Jayne",
+  "brandSlug": "oj",
+  "name": "Ormonde Woman",
+  "gender": "women",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 120,
+    "price": 41600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "OJ EDP ORMONDE WOMAN 120ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "oj-osmanthus",
+  "brand": "Ormonde Jayne",
+  "brandSlug": "oj",
+  "name": "Osmanthus",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 120,
+    "price": 30000
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "OJ EDP OSMANTHUS 120ML",
+   "OJ EDP OSMANTHUS 50ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "oj-montabaco-intensivo-parfum",
+  "brand": "Ormonde Jayne",
+  "brandSlug": "oj",
+  "name": "Montabaco Intensivo",
+  "gender": "unisex",
+  "family": "leather",
+  "familyLabel": "Leather & Suede",
+  "familySure": true,
+  "concentration": "Parfum",
+  "sizes": [
+   {
+    "ml": 120,
+    "price": 51600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "OJ PARFUM 4.MONTABACO INTENSIVO 120ML",
+   "OJ PARFUM 88ML MONTABACO INTENSIVO"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "oj-champaca",
+  "brand": "Ormonde Jayne",
+  "brandSlug": "oj",
+  "name": "Champaca",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": true,
+  "concentration": "Parfum",
+  "sizes": [
+   {
+    "ml": 88,
+    "price": 41400
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "OJ PARFUM 88ML  CHAMPACA"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "oj-frangipani",
+  "brand": "Ormonde Jayne",
+  "brandSlug": "oj",
+  "name": "Frangipani",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": true,
+  "concentration": "Parfum",
+  "sizes": [
+   {
+    "ml": 88,
+    "price": 49000
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "OJ PARFUM 88ML  FRANGIPANI"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "oj-isfarkand",
+  "brand": "Ormonde Jayne",
+  "brandSlug": "oj",
+  "name": "Isfarkand",
+  "gender": "unisex",
+  "family": "citrus",
+  "familyLabel": "Citrus",
+  "familySure": true,
+  "concentration": "Parfum",
+  "sizes": [
+   {
+    "ml": 88,
+    "price": 41600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "OJ PARFUM 88ML  ISFARKAND"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "oj-qi-intensivo",
+  "brand": "Ormonde Jayne",
+  "brandSlug": "oj",
+  "name": "Qi Intensivo",
+  "gender": "unisex",
+  "family": "citrus",
+  "familyLabel": "Citrus",
+  "familySure": false,
+  "concentration": "Parfum",
+  "sizes": [
+   {
+    "ml": 88,
+    "price": 51600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "OJ PARFUM 88ML  QI INTENSIVO"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "oj-vanille-des-afriques-intensivo",
+  "brand": "Ormonde Jayne",
+  "brandSlug": "oj",
+  "name": "Vanille des Afriques Intensivo",
+  "gender": "unisex",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Parfum",
+  "sizes": [
+   {
+    "ml": 88,
+    "price": 51800
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "OJ PARFUM 88ML VANILLE DES AFRIQUES INTENSIVO"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "nishane-afrika-olifant",
+  "brand": "Nishane",
+  "brandSlug": "nishane",
+  "name": "Afrika-Olifant",
+  "gender": "unisex",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 50,
+    "price": 19000
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "NISHANE AFRIKA-OLIFANT 50ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "nishane-ambra-calabria",
+  "brand": "Nishane",
+  "brandSlug": "nishane",
+  "name": "Ambra Calabria",
+  "gender": "unisex",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 50,
+    "price": 20300
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "NISHANE AMBRA CALABRIA 50ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "nishane-ani",
+  "brand": "Nishane",
+  "brandSlug": "nishane",
+  "name": "Ani",
+  "gender": "unisex",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 38800
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "NISHANE ANI 100 ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "nishane-deziro",
+  "brand": "Nishane",
+  "brandSlug": "nishane",
+  "name": "Deziro",
+  "gender": "unisex",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 34600
+   },
+   {
+    "ml": 50,
+    "price": 22600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "NISHANE DEZIRO 100 ML",
+   "NISHANE DEZIRO 50ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "nishane-fan-your-flames",
+  "brand": "Nishane",
+  "brandSlug": "nishane",
+  "name": "Fan Your Flames",
+  "gender": "unisex",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 17600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "NISHANE FAN YOUR FLAMES 100ML",
+   "NISHANE FAN YOUR FLAMES 15 ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "nishane-hacivat",
+  "brand": "Nishane",
+  "brandSlug": "nishane",
+  "name": "Hacivat",
+  "gender": "unisex",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 22600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "NISHANE HACIVAT 100ML",
+   "NISHANE HACIVAT 15 ML",
+   "NISHANE HACIVAT 50ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "nishane-hacivat-x",
+  "brand": "Nishane",
+  "brandSlug": "nishane",
+  "name": "Hacivat X",
+  "gender": "unisex",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": true,
+  "concentration": "Extrait de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 22600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "NISHANE HACIVAT  X  15 ML",
+   "NISHANE HACIVAT X  50ML",
+   "NISHANE HACIVAT X EXDP 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "nishane-hacivat-oud",
+  "brand": "Nishane",
+  "brandSlug": "nishane",
+  "name": "Hacivat Oud",
+  "gender": "unisex",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 50,
+    "price": 60200
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "NISHANE HACIVAT  OUD 50 ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "nishane-hundred-silent-ways",
+  "brand": "Nishane",
+  "brandSlug": "nishane",
+  "name": "Hundred Silent Ways",
+  "gender": "unisex",
+  "family": "musk",
+  "familyLabel": "Musk & Skin",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 19600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "NISHANE HUNDRED SILENT WAYS 100ML",
+   "NISHANE HUNDRED SILENT WAYS 15 ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "nishane-karagoz",
+  "brand": "Nishane",
+  "brandSlug": "nishane",
+  "name": "Karagoz",
+  "gender": "unisex",
+  "family": "leather",
+  "familyLabel": "Leather & Suede",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 50,
+    "price": 18600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "NISHANE KARAGOZ 50ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "nishane-kredo",
+  "brand": "Nishane",
+  "brandSlug": "nishane",
+  "name": "Kredo",
+  "gender": "unisex",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 37400
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "NISHANE KREDO 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "nishane-nefs",
+  "brand": "Nishane",
+  "brandSlug": "nishane",
+  "name": "Nefs",
+  "gender": "unisex",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 50,
+    "price": 49700
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "NISHANE NEFS 50ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "nishane-papilefiko",
+  "brand": "Nishane",
+  "brandSlug": "nishane",
+  "name": "Papilefiko",
+  "gender": "unisex",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 39800
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "NISHANE PAPILEFIKO 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "nishane-shem",
+  "brand": "Nishane",
+  "brandSlug": "nishane",
+  "name": "Shem",
+  "gender": "unisex",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 50,
+    "price": 41600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "NISHANE SHEM 50ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "nishane-suede-et-safran",
+  "brand": "Nishane",
+  "brandSlug": "nishane",
+  "name": "Suede et Safran",
+  "gender": "unisex",
+  "family": "leather",
+  "familyLabel": "Leather & Suede",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 50,
+    "price": 17000
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "NISHANE SUEDE ET SAFRAN 50ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "nishane-tempfluo",
+  "brand": "Nishane",
+  "brandSlug": "nishane",
+  "name": "Tempfluo",
+  "gender": "unisex",
+  "family": "citrus",
+  "familyLabel": "Citrus",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 32900
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "NISHANE TEMPFLUO 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "nishane-tero",
+  "brand": "Nishane",
+  "brandSlug": "nishane",
+  "name": "Tero",
+  "gender": "unisex",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 39200
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "NISHANE TERO 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "nishane-tuberoza",
+  "brand": "Nishane",
+  "brandSlug": "nishane",
+  "name": "Tuberóza",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 50,
+    "price": 41800
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "NISHANE TUBERÓZA 50ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "nishane-wulong-cha",
+  "brand": "Nishane",
+  "brandSlug": "nishane",
+  "name": "Wulong Cha",
+  "gender": "unisex",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 41100
+   },
+   {
+    "ml": 50,
+    "price": 41100
+   },
+   {
+    "ml": 15,
+    "price": 20600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "NISHANE WULONG CHA 100ML",
+   "NISHANE WULONG CHA 15 ML",
+   "NISHANE WULONG CHA 50ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "nishane-wulong-cha-x",
+  "brand": "Nishane",
+  "brandSlug": "nishane",
+  "name": "Wulong Cha X",
+  "gender": "unisex",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": true,
+  "concentration": "Extrait de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 41100
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "NISHANE WULONG CHA X  15 ml",
+   "NISHANE WULONG CHA X EXDP 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "roja-amber-aoud",
+  "brand": "Roja Parfums",
+  "brandSlug": "roja",
+  "name": "Amber Aoud",
+  "gender": "unisex",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": true,
+  "concentration": "Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 96600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ROJA AMBER AOUD PARFUM 100ML",
+   "ROJA AMBER AOUD PARFUM 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "roja-aoud",
+  "brand": "Roja Parfums",
+  "brandSlug": "roja",
+  "name": "Aoud",
+  "gender": "unisex",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": true,
+  "concentration": "Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 62800
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ROJA AOUD PARFUM 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "roja-apex",
+  "brand": "Roja Parfums",
+  "brandSlug": "roja",
+  "name": "Apex",
+  "gender": "men",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 52600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ROJA APEX EAU DE PARFUM 100 ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "roja-diaghilev",
+  "brand": "Roja Parfums",
+  "brandSlug": "roja",
+  "name": "Diaghilev",
+  "gender": "unisex",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": false,
+  "concentration": "Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 120600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ROJA DIAGHILEV PARFUM 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "roja-elixir-pour-femme",
+  "brand": "Roja Parfums",
+  "brandSlug": "roja",
+  "name": "Elixir Pour Femme",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 75,
+    "price": 78000
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ROJA ELIXIR POUR FEMME EDP 75ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "roja-elysium",
+  "brand": "Roja Parfums",
+  "brandSlug": "roja",
+  "name": "Elysium",
+  "gender": "men",
+  "family": "citrus",
+  "familyLabel": "Citrus",
+  "familySure": true,
+  "concentration": "Eau Intense",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 41900
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ROJA ELYSIUM EAU INTENSE 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "roja-elysium-pour-femme",
+  "brand": "Roja Parfums",
+  "brandSlug": "roja",
+  "name": "Elysium Pour Femme",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 75,
+    "price": 41900
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ROJA ELYSIUM POUR FEMME EDP 75ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "roja-elysium-pour-homme",
+  "brand": "Roja Parfums",
+  "brandSlug": "roja",
+  "name": "Elysium Pour Homme",
+  "gender": "men",
+  "family": "citrus",
+  "familyLabel": "Citrus",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 41900
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ROJA ELYSIUM POUR HOMME EDP 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "roja-elysium-pour-homme-parfum",
+  "brand": "Roja Parfums",
+  "brandSlug": "roja",
+  "name": "Elysium Pour Homme",
+  "gender": "men",
+  "family": "citrus",
+  "familyLabel": "Citrus",
+  "familySure": true,
+  "concentration": "Parfum",
+  "sizes": [
+   {
+    "ml": 50,
+    "price": 41900
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ROJA ELYSIUM POUR HOMME PARFUM 50ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "roja-enigma",
+  "brand": "Roja Parfums",
+  "brandSlug": "roja",
+  "name": "Enigma",
+  "gender": "unisex",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 75,
+    "price": 36200
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ROJA ENIGMA EDP 75ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "roja-enigma-aoud-pour-femme",
+  "brand": "Roja Parfums",
+  "brandSlug": "roja",
+  "name": "Enigma Aoud Pour Femme",
+  "gender": "women",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": true,
+  "concentration": "Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 62800
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ROJA ENIGMA AOUD POUR FEMME PARFUM 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "roja-enigma-pour-homme",
+  "brand": "Roja Parfums",
+  "brandSlug": "roja",
+  "name": "Enigma Pour Homme",
+  "gender": "men",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": false,
+  "concentration": "Parfum Cologne",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 36200
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ROJA ENIGMA POUR HOMME PARFUM COLOGNE 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "roja-isola-blu",
+  "brand": "Roja Parfums",
+  "brandSlug": "roja",
+  "name": "Isola Blu",
+  "gender": "unisex",
+  "family": "citrus",
+  "familyLabel": "Citrus",
+  "familySure": false,
+  "concentration": "Parfum",
+  "sizes": [
+   {
+    "ml": 50,
+    "price": 50800
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ROJA ISOLA BLU PARFUM 50ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "roja-isola-verde",
+  "brand": "Roja Parfums",
+  "brandSlug": "roja",
+  "name": "Isola Verde",
+  "gender": "unisex",
+  "family": "fresh",
+  "familyLabel": "Fresh & Aquatic",
+  "familySure": false,
+  "concentration": "Parfum",
+  "sizes": [
+   {
+    "ml": 50,
+    "price": 47300
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ROJA ISOLA VERDE PARFUM 50ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "roja-manhattan",
+  "brand": "Roja Parfums",
+  "brandSlug": "roja",
+  "name": "Manhattan",
+  "gender": "men",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 57400
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ROJA MANHATTAN EAU DE PARFUM 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "roja-parfum-de-la-nuit",
+  "brand": "Roja Parfums",
+  "brandSlug": "roja",
+  "name": "Parfum de la Nuit",
+  "gender": "unisex",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": false,
+  "concentration": "Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 135000
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ROJA PARFUM DE LA NUIT PARFUM 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "roja-reckless",
+  "brand": "Roja Parfums",
+  "brandSlug": "roja",
+  "name": "Reckless",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 75,
+    "price": 49000
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ROJA RECKLESS EDP 75ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "roja-scandal",
+  "brand": "Roja Parfums",
+  "brandSlug": "roja",
+  "name": "Scandal",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 75,
+    "price": 62000
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ROJA SCANDAL EDP 75ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "initio-absolute-aphrodisiac",
+  "brand": "Initio Parfums Privés",
+  "brandSlug": "initio",
+  "name": "Absolute Aphrodisiac",
+  "gender": "unisex",
+  "family": "musk",
+  "familyLabel": "Musk & Skin",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 90,
+    "price": 39700
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "INITIO ABSOLUTE APHRODISIAC 90ML EDP"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "initio-atomic-rose",
+  "brand": "Initio Parfums Privés",
+  "brandSlug": "initio",
+  "name": "Atomic Rose",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 90,
+    "price": 42100
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "INITIO ATOMIC ROSE EDP 90ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "initio-blessed-baraka",
+  "brand": "Initio Parfums Privés",
+  "brandSlug": "initio",
+  "name": "Blessed Baraka",
+  "gender": "unisex",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 90,
+    "price": 35400
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "INITIO BLESSED BARAKA EDP 90ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "initio-high-frequency",
+  "brand": "Initio Parfums Privés",
+  "brandSlug": "initio",
+  "name": "High Frequency",
+  "gender": "unisex",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 90,
+    "price": 33600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "INITIO HIGH FREQUENCY EDP 90ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "initio-musk-therapy",
+  "brand": "Initio Parfums Privés",
+  "brandSlug": "initio",
+  "name": "Musk Therapy",
+  "gender": "unisex",
+  "family": "musk",
+  "familyLabel": "Musk & Skin",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 90,
+    "price": 41300
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "INITIO MUSK THERAPY EDP 50ML",
+   "INITIO MUSK THERAPY EDP 90ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "initio-mystic-experience",
+  "brand": "Initio Parfums Privés",
+  "brandSlug": "initio",
+  "name": "Mystic Experience",
+  "gender": "unisex",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 90,
+    "price": 33000
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "INITIO MYSTIC EXPERIENCE EDP 90ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "initio-narcotic-delight",
+  "brand": "Initio Parfums Privés",
+  "brandSlug": "initio",
+  "name": "Narcotic Delight",
+  "gender": "unisex",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 90,
+    "price": 47800
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "INITIO NARCOTIC DELIGHT EDP 90ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "initio-oud-for-greatness",
+  "brand": "Initio Parfums Privés",
+  "brandSlug": "initio",
+  "name": "Oud for Greatness",
+  "gender": "unisex",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 90,
+    "price": 46800
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "INITIO OUD FOR GREATNESS 90ML EDP"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "initio-oud-for-greatness-neo",
+  "brand": "Initio Parfums Privés",
+  "brandSlug": "initio",
+  "name": "Oud for Greatness Neo",
+  "gender": "unisex",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 90,
+    "price": 50600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "INITIO OUD FOR GREATNESS NEO EDP 90ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "initio-oud-for-happiness",
+  "brand": "Initio Parfums Privés",
+  "brandSlug": "initio",
+  "name": "Oud for Happiness",
+  "gender": "unisex",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 90,
+    "price": 40600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "INITIO OUD FOR HAPPINESS EDP 90ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "initio-paragon",
+  "brand": "Initio Parfums Privés",
+  "brandSlug": "initio",
+  "name": "Paragon",
+  "gender": "men",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": false,
+  "concentration": "Extrait de Parfum",
+  "sizes": [
+   {
+    "ml": 90,
+    "price": 38300
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "INITIO PARAGON 90ML EXT. DE PARFUM"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "initio-power-self",
+  "brand": "Initio Parfums Privés",
+  "brandSlug": "initio",
+  "name": "Power Self",
+  "gender": "unisex",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 90,
+    "price": 48600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "INITIO POWER SELF EDP 90ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "initio-psychedelic-love",
+  "brand": "Initio Parfums Privés",
+  "brandSlug": "initio",
+  "name": "Psychedelic Love",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 90,
+    "price": 42800
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "INITIO PSYCHEDELIC LOVE 90ML EDP"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "initio-rehab",
+  "brand": "Initio Parfums Privés",
+  "brandSlug": "initio",
+  "name": "Rehab",
+  "gender": "unisex",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Extrait de Parfum",
+  "sizes": [
+   {
+    "ml": 90,
+    "price": 42700
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "INITIO REHAB 90ML EXT. DE PARFUM"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "mancera-amore-caffe",
+  "brand": "Mancera",
+  "brandSlug": "mancera",
+  "name": "Amore Caffe",
+  "gender": "unisex",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 120,
+    "price": 19600
+   }
+  ],
+  "notes": {
+   "top": [
+    "Coffee",
+    "Bergamot",
+    "Pink Pepper"
+   ],
+   "heart": [
+    "Hazelnut",
+    "Jasmine",
+    "Cocoa"
+   ],
+   "base": [
+    "Vanilla",
+    "Tonka Bean",
+    "White Musk",
+    "Sandalwood"
+   ]
+  },
+  "description": "Espresso and hazelnut. Ridiculous on paper, extremely effective on skin.",
+  "tags": [
+   "gourmand"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "MANCERA AMORE CAFFE 120ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "mancera-aoud-orchid",
+  "brand": "Mancera",
+  "brandSlug": "mancera",
+  "name": "Aoud Orchid",
+  "gender": "unisex",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 120,
+    "price": 18000
+   }
+  ],
+  "notes": {
+   "top": [
+    "Saffron",
+    "Bergamot",
+    "Rose"
+   ],
+   "heart": [
+    "Orchid",
+    "Oud",
+    "Patchouli"
+   ],
+   "base": [
+    "Leather",
+    "Amber",
+    "White Musk",
+    "Sandalwood"
+   ]
+  },
+  "description": "Orchid and saffron over oud. Floral on the way in, Arabian on the way out.",
+  "tags": [
+   "oud"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "MANCERA AOUD ORCHID 120ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "mancera-cedrat-boise",
+  "brand": "Mancera",
+  "brandSlug": "mancera",
+  "name": "Cedrat Boise",
+  "gender": "men",
+  "family": "citrus",
+  "familyLabel": "Citrus",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 120,
+    "price": 16800
+   }
+  ],
+  "notes": {
+   "top": [
+    "Sicilian Lemon",
+    "Bergamot",
+    "Pineapple"
+   ],
+   "heart": [
+    "Leather",
+    "Rose",
+    "Patchouli"
+   ],
+   "base": [
+    "Oud",
+    "Vanilla",
+    "White Musk",
+    "Amber"
+   ]
+  },
+  "description": "Lemon over leather and oud — loud, long, and built for heat. Twelve hours is normal.",
+  "tags": [
+   "bestseller",
+   "value"
+  ],
+  "notesSure": true,
+  "sourceRows": [
+   "MANCERA CEDRAT BOISE 120ML",
+   "MANCERA CEDRAT BOISE 8ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "mancera-cosmic-pepper",
+  "brand": "Mancera",
+  "brandSlug": "mancera",
+  "name": "Cosmic Pepper",
+  "gender": "unisex",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 120,
+    "price": 16600
+   }
+  ],
+  "notes": {
+   "top": [
+    "Pink Pepper",
+    "Grapefruit",
+    "Bergamot"
+   ],
+   "heart": [
+    "Rose",
+    "Geranium",
+    "Cinnamon"
+   ],
+   "base": [
+    "Amber",
+    "Patchouli",
+    "White Musk",
+    "Vanilla"
+   ]
+  },
+  "description": "Pepper and amber, dry and slightly metallic. Among the house's more grown-up compositions.",
+  "tags": [
+   "new"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "MANCERA COSMIC PEPPER 120ML",
+   "MANCERA COSMIC PEPPER 8ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "mancera-french-riviera",
+  "brand": "Mancera",
+  "brandSlug": "mancera",
+  "name": "French Riviera",
+  "gender": "unisex",
+  "family": "fresh",
+  "familyLabel": "Fresh & Aquatic",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 120,
+    "price": 20600
+   }
+  ],
+  "notes": {
+   "top": [
+    "Bergamot",
+    "Lemon",
+    "Grapefruit"
+   ],
+   "heart": [
+    "Marine Accord",
+    "Orange Blossom",
+    "Jasmine"
+   ],
+   "base": [
+    "White Musk",
+    "Amber",
+    "Cedar"
+   ]
+  },
+  "description": "The lighter read of the same idea: sea spray, citrus, and a musk that holds it down.",
+  "tags": [
+   "fresh"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "MANCERA FRENCH RIVIERA 120ML",
+   "MANCERA FRENCH RIVIERA 8ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "mancera-hindu-kush",
+  "brand": "Mancera",
+  "brandSlug": "mancera",
+  "name": "Hindu Kush",
+  "gender": "unisex",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 120,
+    "price": 16400
+   }
+  ],
+  "notes": {
+   "top": [
+    "Pink Pepper",
+    "Lemon",
+    "Cannabis Accord"
+   ],
+   "heart": [
+    "Rose",
+    "Oud",
+    "Patchouli"
+   ],
+   "base": [
+    "Vanilla",
+    "Amber",
+    "White Musk",
+    "Sandalwood"
+   ]
+  },
+  "description": "Green, resinous and faintly smoky. The oddest thing on the shelf and a cult object for it.",
+  "tags": [
+   "oud",
+   "rare"
+  ],
+  "notesSure": true,
+  "sourceRows": [
+   "MANCERA HINDU KUSH 120ML",
+   "MANCERA HINDU KUSH 8ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "mancera-instant-crush",
+  "brand": "Mancera",
+  "brandSlug": "mancera",
+  "name": "Instant Crush",
+  "gender": "women",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 120,
+    "price": 17000
+   }
+  ],
+  "notes": {
+   "top": [
+    "Raspberry",
+    "Bergamot",
+    "Blackcurrant"
+   ],
+   "heart": [
+    "Rose",
+    "Jasmine",
+    "Violet"
+   ],
+   "base": [
+    "Vanilla",
+    "White Musk",
+    "Patchouli",
+    "Amber"
+   ]
+  },
+  "description": "Red berries and vanilla, close to the skin and slow to leave.",
+  "tags": [
+   "women",
+   "value"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "MANCERA INSTANT CRUSH  120ML",
+   "MANCERA INSTANT CRUSH  8ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "mancera-intense-french-riviera",
+  "brand": "Mancera",
+  "brandSlug": "mancera",
+  "name": "Intense French Riviera",
+  "gender": "unisex",
+  "family": "fresh",
+  "familyLabel": "Fresh & Aquatic",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 120,
+    "price": 20600
+   }
+  ],
+  "notes": {
+   "top": [
+    "Bergamot",
+    "Grapefruit",
+    "Lemon"
+   ],
+   "heart": [
+    "Marine Accord",
+    "Jasmine",
+    "Geranium"
+   ],
+   "base": [
+    "White Musk",
+    "Amber",
+    "Cedar",
+    "Vanilla"
+   ]
+  },
+  "description": "Salt air and citrus with Mancera's usual refusal to fade. Coastal without being a cliché.",
+  "tags": [
+   "fresh"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "MANCERA INTENSE FRENCH RIVIERA 120ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "mancera-melody-of-the-sun",
+  "brand": "Mancera",
+  "brandSlug": "mancera",
+  "name": "Melody of the Sun",
+  "gender": "women",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 120,
+    "price": 17300
+   }
+  ],
+  "notes": {
+   "top": [
+    "Mango",
+    "Bergamot",
+    "Pineapple"
+   ],
+   "heart": [
+    "Jasmine",
+    "Ylang-Ylang",
+    "Coconut"
+   ],
+   "base": [
+    "Vanilla",
+    "White Musk",
+    "Sandalwood",
+    "Amber"
+   ]
+  },
+  "description": "Tropical fruit without the suncream accord. Bright, sweet, and very hard to dislike.",
+  "tags": [
+   "women",
+   "value"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "MANCERA MELODY OF THE SUN 120ML",
+   "MANCERA MELODY OF THE SUN 8ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "mancera-roses-greedy",
+  "brand": "Mancera",
+  "brandSlug": "mancera",
+  "name": "Roses Greedy",
+  "gender": "women",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 120,
+    "price": 15800
+   }
+  ],
+  "notes": {
+   "top": [
+    "Bergamot",
+    "Lemon"
+   ],
+   "heart": [
+    "Rose",
+    "Jasmine",
+    "Caramel"
+   ],
+   "base": [
+    "Vanilla",
+    "Tonka Bean",
+    "White Musk",
+    "Sandalwood"
+   ]
+  },
+  "description": "Rose dipped in caramel. Sweeter than Roses Vanille and entirely unbothered about it.",
+  "tags": [
+   "women",
+   "value"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "MANCERA ROSES GREEDY  120ML",
+   "MANCERA ROSES GREEDY  8ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "mancera-roses-vanille",
+  "brand": "Mancera",
+  "brandSlug": "mancera",
+  "name": "Roses Vanille",
+  "gender": "women",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 120,
+    "price": 16300
+   }
+  ],
+  "notes": {
+   "top": [
+    "Lemon",
+    "Bergamot"
+   ],
+   "heart": [
+    "Bulgarian Rose",
+    "Jasmine",
+    "Coconut"
+   ],
+   "base": [
+    "Vanilla",
+    "White Musk",
+    "Sandalwood",
+    "Cedar"
+   ]
+  },
+  "description": "Rose and vanilla with a coconut seam running through it. The best-selling bottle in the house, and it earns it.",
+  "tags": [
+   "bestseller",
+   "value"
+  ],
+  "notesSure": true,
+  "sourceRows": [
+   "MANCERA ROSES VANILLE 120ML",
+   "MANCERA ROSES VANILLE 8ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "mancera-sicily",
+  "brand": "Mancera",
+  "brandSlug": "mancera",
+  "name": "Sicily",
+  "gender": "unisex",
+  "family": "citrus",
+  "familyLabel": "Citrus",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 120,
+    "price": 16600
+   }
+  ],
+  "notes": {
+   "top": [
+    "Sicilian Lemon",
+    "Bergamot",
+    "Orange"
+   ],
+   "heart": [
+    "Neroli",
+    "Jasmine",
+    "Fig"
+   ],
+   "base": [
+    "White Musk",
+    "Amber",
+    "Cedar",
+    "Vanilla"
+   ]
+  },
+  "description": "Lemon groves, fig leaf, and enough musk to survive a Nairobi afternoon.",
+  "tags": [
+   "fresh"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "MANCERA SICILY 120ML",
+   "MANCERA SICILY 8ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "mancera-tonka-cola",
+  "brand": "Mancera",
+  "brandSlug": "mancera",
+  "name": "Tonka Cola",
+  "gender": "unisex",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 120,
+    "price": 16500
+   }
+  ],
+  "notes": {
+   "top": [
+    "Cola Accord",
+    "Bergamot",
+    "Lemon"
+   ],
+   "heart": [
+    "Tonka Bean",
+    "Cinnamon",
+    "Jasmine"
+   ],
+   "base": [
+    "Vanilla",
+    "Amber",
+    "White Musk",
+    "Sandalwood"
+   ]
+  },
+  "description": "A cola top note that has no business working, over tonka that makes it respectable.",
+  "tags": [
+   "gourmand"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "MANCERA TONKA COLA 120ML",
+   "MANCERA TONKA COLA 8ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "mancera-xplicit-vanilla",
+  "brand": "Mancera",
+  "brandSlug": "mancera",
+  "name": "Xplicit Vanilla",
+  "gender": "unisex",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 120,
+    "price": 20800
+   }
+  ],
+  "notes": {
+   "top": [
+    "Bergamot",
+    "Pink Pepper"
+   ],
+   "heart": [
+    "Vanilla Orchid",
+    "Jasmine",
+    "Tonka Bean"
+   ],
+   "base": [
+    "Vanilla",
+    "Benzoin",
+    "White Musk",
+    "Sandalwood"
+   ]
+  },
+  "description": "Vanilla as the whole argument. No fruit, no flowers, no apology.",
+  "tags": [
+   "gourmand",
+   "new"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "MANCERA XPLICIT VANILLA 120ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "xerjoff-17-17-damarose",
+  "brand": "Xerjoff",
+  "brandSlug": "xerjoff",
+  "name": "17/17 Damarose",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": true,
+  "concentration": "Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 63900
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "XERJOFF 17/17 DAMAROSE - PARFUM 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "xerjoff-1861-naxos",
+  "brand": "Xerjoff",
+  "brandSlug": "xerjoff",
+  "name": "1861 Naxos",
+  "gender": "men",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 37800
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "XERJOFF 1861 NAXOS - EDP 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "xerjoff-atp-torino-24",
+  "brand": "Xerjoff",
+  "brandSlug": "xerjoff",
+  "name": "ATP Torino 24",
+  "gender": "unisex",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 50,
+    "price": 48600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "XERJOFF ATP TORINO 24 50ML EAU DE PARFUM"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "xerjoff-atp-torino-25",
+  "brand": "Xerjoff",
+  "brandSlug": "xerjoff",
+  "name": "ATP Torino 25",
+  "gender": "unisex",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 50,
+    "price": 48600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "XERJOFF ATP TORINO 25 50ML EAU DE PARFUM"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "xerjoff-comandante",
+  "brand": "Xerjoff",
+  "brandSlug": "xerjoff",
+  "name": "Comandante",
+  "gender": "men",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 41600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "XERJOFF JTC  JOIN THE CLUB COMANDANTE EDP 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "xerjoff-don",
+  "brand": "Xerjoff",
+  "brandSlug": "xerjoff",
+  "name": "Don",
+  "gender": "men",
+  "family": "leather",
+  "familyLabel": "Leather & Suede",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 29800
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "XERJOFF JTC JOIN THE CLUB DON  EDP 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "xerjoff-ouverture",
+  "brand": "Xerjoff",
+  "brandSlug": "xerjoff",
+  "name": "Ouverture",
+  "gender": "unisex",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 33600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "XERJOFF OUVERTURE EDP 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "xerjoff-v-accento",
+  "brand": "Xerjoff",
+  "brandSlug": "xerjoff",
+  "name": "V Accento",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 28600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "XERJOFF V ACCENTO EDP 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "xerjoff-erba-gold",
+  "brand": "Xerjoff",
+  "brandSlug": "xerjoff",
+  "name": "Erba Gold",
+  "gender": "unisex",
+  "family": "citrus",
+  "familyLabel": "Citrus",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 48000
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "XERJOFF XJV ERBA GOLD EAU DE PARFUM 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "xerjoff-erba-pura",
+  "brand": "Xerjoff",
+  "brandSlug": "xerjoff",
+  "name": "Erba Pura",
+  "gender": "unisex",
+  "family": "citrus",
+  "familyLabel": "Citrus",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 27600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "XERJOFF XJV ERBA PURA EDP 100ML",
+   "XERJOFF XJV ERBA PURA EDP 50ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "xerjoff-purple-accento",
+  "brand": "Xerjoff",
+  "brandSlug": "xerjoff",
+  "name": "Purple Accento",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 69100
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "XERJOFF XJV PURPLE ACCENTO EDP 100 ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "xerjoff-zefiro",
+  "brand": "Xerjoff",
+  "brandSlug": "xerjoff",
+  "name": "Zefiro",
+  "gender": "unisex",
+  "family": "fresh",
+  "familyLabel": "Fresh & Aquatic",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 28900
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "XERJOFF ZEFIRO EDP 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "montale-black-aoud",
+  "brand": "Montale",
+  "brandSlug": "montale",
+  "name": "Black Aoud",
+  "gender": "men",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 15300
+   }
+  ],
+  "notes": {
+   "top": [
+    "Rose",
+    "Bergamot",
+    "Patchouli"
+   ],
+   "heart": [
+    "Oud",
+    "Agarwood",
+    "Cypriol"
+   ],
+   "base": [
+    "Musk",
+    "Sandalwood",
+    "Amber"
+   ]
+  },
+  "description": "The bottle that taught a generation what oud smells like. Rose, smoke and medicine, in that order.",
+  "tags": [
+   "bestseller",
+   "oud",
+   "classic"
+  ],
+  "notesSure": true,
+  "sourceRows": [
+   "MONTALE BLACK AOUD 100ML",
+   "MONTALE BLACK AOUD 20ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "montale-starry-nights",
+  "brand": "Montale",
+  "brandSlug": "montale",
+  "name": "Starry Nights",
+  "gender": "unisex",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 12500
+   }
+  ],
+  "notes": {
+   "top": [
+    "Bergamot",
+    "Lemon",
+    "Saffron"
+   ],
+   "heart": [
+    "Rose",
+    "Oud",
+    "Patchouli"
+   ],
+   "base": [
+    "Vanilla",
+    "Amber",
+    "Sandalwood",
+    "Musk"
+   ]
+  },
+  "description": "Saffron and oud softened by vanilla — the gentlest way into the house's Aoud line.",
+  "tags": [
+   "oud",
+   "bestseller"
+  ],
+  "notesSure": true,
+  "sourceRows": [
+   "MONTALE STARRY NIGHTS 100ML",
+   "MONTALE STARRY NIGHTS 20ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "montale-intense-starry-nights",
+  "brand": "Montale",
+  "brandSlug": "montale",
+  "name": "Intense Starry Nights",
+  "gender": "unisex",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 12500
+   }
+  ],
+  "notes": {
+   "top": [
+    "Saffron",
+    "Bergamot",
+    "Lemon"
+   ],
+   "heart": [
+    "Rose",
+    "Oud",
+    "Leather"
+   ],
+   "base": [
+    "Vanilla",
+    "Amber",
+    "Sandalwood",
+    "Musk"
+   ]
+  },
+  "description": "Starry Nights with the oud pushed forward and the vanilla pulled back.",
+  "tags": [
+   "oud"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "MONTALE INTENSE STARRY NIGHTS 100ML",
+   "MONTALE INTENSE STARRY NIGHTS 50ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "montale-arabians-tonka",
+  "brand": "Montale",
+  "brandSlug": "montale",
+  "name": "Arabians Tonka",
+  "gender": "unisex",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 19600
+   }
+  ],
+  "notes": {
+   "top": [
+    "Saffron",
+    "Bergamot",
+    "Rose"
+   ],
+   "heart": [
+    "Oud",
+    "Tonka Bean",
+    "Jasmine"
+   ],
+   "base": [
+    "Vanilla",
+    "Amber",
+    "Sandalwood",
+    "Musk"
+   ]
+  },
+  "description": "Tonka and saffron over oud. Sweet, dense, and the most-reordered Montale after Black Aoud.",
+  "tags": [
+   "bestseller",
+   "oud"
+  ],
+  "notesSure": true,
+  "sourceRows": [
+   "MONTALE ARABIANS TONKA 100ML",
+   "MONTALE ARABIANS TONKA 20ML",
+   "MONTALE ARABIANS TONKA 50ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "montale-arabians",
+  "brand": "Montale",
+  "brandSlug": "montale",
+  "name": "Arabians",
+  "gender": "unisex",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 13700
+   }
+  ],
+  "notes": {
+   "top": [
+    "Saffron",
+    "Rose",
+    "Bergamot"
+   ],
+   "heart": [
+    "Oud",
+    "Agarwood",
+    "Patchouli"
+   ],
+   "base": [
+    "Amber",
+    "Sandalwood",
+    "Musk",
+    "Leather"
+   ]
+  },
+  "description": "Oud without the sugar — drier and more austere than anything else on this shelf.",
+  "tags": [
+   "oud"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "MONTALE ARABIANS 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "montale-chocolate-greedy",
+  "brand": "Montale",
+  "brandSlug": "montale",
+  "name": "Chocolate Greedy",
+  "gender": "unisex",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 13300
+   }
+  ],
+  "notes": {
+   "top": [
+    "Orange",
+    "Bitter Orange"
+   ],
+   "heart": [
+    "Dark Chocolate",
+    "Cocoa",
+    "Coffee",
+    "Dried Fruit"
+   ],
+   "base": [
+    "Vanilla",
+    "Tonka Bean",
+    "Patchouli"
+   ]
+  },
+  "description": "Cocoa and orange peel. Easily the most literal fragrance in the room, and it still sells out.",
+  "tags": [
+   "gourmand",
+   "bestseller"
+  ],
+  "notesSure": true,
+  "sourceRows": [
+   "MONTALE CHOCOLATE GREEDY 100ML",
+   "MONTALE CHOCOLATE GREEDY 20ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "montale-roses-musk",
+  "brand": "Montale",
+  "brandSlug": "montale",
+  "name": "Roses Musk",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 12600
+   }
+  ],
+  "notes": {
+   "top": [
+    "Rose",
+    "Bergamot"
+   ],
+   "heart": [
+    "Bulgarian Rose",
+    "Turkish Rose",
+    "Jasmine"
+   ],
+   "base": [
+    "White Musk",
+    "Amber",
+    "Sandalwood"
+   ]
+  },
+  "description": "Rose and white musk, nothing else in the way. The cleanest rose the house makes.",
+  "tags": [
+   "women"
+  ],
+  "notesSure": true,
+  "sourceRows": [
+   "MONTALE ROSES MUSK 100ML",
+   "MONTALE ROSES MUSK 20ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "montale-crazy-in-love",
+  "brand": "Montale",
+  "brandSlug": "montale",
+  "name": "Crazy in Love",
+  "gender": "women",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 13000
+   }
+  ],
+  "notes": {
+   "top": [
+    "Raspberry",
+    "Bergamot",
+    "Pink Pepper"
+   ],
+   "heart": [
+    "Rose",
+    "Jasmine",
+    "Praline"
+   ],
+   "base": [
+    "Vanilla",
+    "White Musk",
+    "Patchouli"
+   ]
+  },
+  "description": "Raspberry and praline over a rose. Young, loud, and extremely popular with its audience.",
+  "tags": [
+   "women",
+   "value"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "MONTALE CRAZY IN LOVE 100ML",
+   "MONTALE CRAZY IN LOVE 20ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "montale-intense-cafe-ristretto",
+  "brand": "Montale",
+  "brandSlug": "montale",
+  "name": "Intense Cafe Ristretto",
+  "gender": "unisex",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 15300
+   }
+  ],
+  "notes": {
+   "top": [
+    "Coffee",
+    "Bergamot",
+    "Orange"
+   ],
+   "heart": [
+    "Rose",
+    "Cocoa",
+    "Hazelnut"
+   ],
+   "base": [
+    "Vanilla",
+    "Amber",
+    "White Musk",
+    "Sandalwood"
+   ]
+  },
+  "description": "Rose and espresso — the house's most copied idea, in its most concentrated form.",
+  "tags": [
+   "gourmand",
+   "bestseller"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "MONTALE INTENSE CAFE RISTRETTO 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "montale-sensual-instinct",
+  "brand": "Montale",
+  "brandSlug": "montale",
+  "name": "Sensual Instinct",
+  "gender": "unisex",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 13300
+   }
+  ],
+  "notes": {
+   "top": [
+    "Saffron",
+    "Pink Pepper",
+    "Bergamot"
+   ],
+   "heart": [
+    "Oud",
+    "Rose",
+    "Leather"
+   ],
+   "base": [
+    "Amber",
+    "Vanilla",
+    "Sandalwood",
+    "Musk"
+   ]
+  },
+  "description": "Leather and saffron over oud, with just enough vanilla to keep it civil.",
+  "tags": [
+   "oud",
+   "new"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "MONTALE SENSUAL INSTINCT 100ML",
+   "MONTALE SENSUAL INSTINCT 20ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "montale-oudyssee",
+  "brand": "Montale",
+  "brandSlug": "montale",
+  "name": "Oudyssee",
+  "gender": "unisex",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 13600
+   }
+  ],
+  "notes": {
+   "top": [
+    "Saffron",
+    "Bergamot",
+    "Cardamom"
+   ],
+   "heart": [
+    "Oud",
+    "Rose",
+    "Incense"
+   ],
+   "base": [
+    "Sandalwood",
+    "Amber",
+    "Musk",
+    "Patchouli"
+   ]
+  },
+  "description": "Incense and cardamom folded into oud. Closer to a mosque than a boutique, and better for it.",
+  "tags": [
+   "oud"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "MONTALE OUDYSSEE 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "montale-wood-spices",
+  "brand": "Montale",
+  "brandSlug": "montale",
+  "name": "Wood & Spices",
+  "gender": "men",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 12400
+   }
+  ],
+  "notes": {
+   "top": [
+    "Cardamom",
+    "Nutmeg",
+    "Bergamot"
+   ],
+   "heart": [
+    "Cedar",
+    "Vetiver",
+    "Patchouli"
+   ],
+   "base": [
+    "Sandalwood",
+    "Amber",
+    "Musk",
+    "Leather"
+   ]
+  },
+  "description": "Dry spice and cedar. The house's quietest bottle and the one that works at a desk.",
+  "tags": [
+   "office",
+   "value"
+  ],
+  "notesSure": false,
+  "sourceRows": [
+   "MONTALE WOOD & SPICES 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "tiziana-andromeda",
+  "brand": "Tiziana Terenzi",
+  "brandSlug": "tiziana",
+  "name": "Andromeda",
+  "gender": "unisex",
+  "family": "fresh",
+  "familyLabel": "Fresh & Aquatic",
+  "familySure": false,
+  "concentration": "Extrait de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 25200
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "TIZIANA TERENZI EXTRAIT DE PARFUM ANDROMEDA 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "tiziana-draco",
+  "brand": "Tiziana Terenzi",
+  "brandSlug": "tiziana",
+  "name": "Draco",
+  "gender": "unisex",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": false,
+  "concentration": "Extrait de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 26500
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "TIZIANA TERENZI EXTRAIT DE PARFUM DRACO 100 ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "tiziana-gold-rose-oudh",
+  "brand": "Tiziana Terenzi",
+  "brandSlug": "tiziana",
+  "name": "Gold Rose Oudh",
+  "gender": "unisex",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": true,
+  "concentration": "Extrait de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 15200
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "TIZIANA TERENZI EXTRAIT DE PARFUM GOLD ROSE OUDH 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "tiziana-halley",
+  "brand": "Tiziana Terenzi",
+  "brandSlug": "tiziana",
+  "name": "Halley",
+  "gender": "unisex",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": false,
+  "concentration": "Extrait de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 33400
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "TIZIANA TERENZI EXTRAIT DE PARFUM HALLEY 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "tiziana-kirke",
+  "brand": "Tiziana Terenzi",
+  "brandSlug": "tiziana",
+  "name": "Kirke",
+  "gender": "women",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Extrait de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 23600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "TIZIANA TERENZI EXTRAIT DE PARFUM KIRKE 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "tiziana-laudano-nero",
+  "brand": "Tiziana Terenzi",
+  "brandSlug": "tiziana",
+  "name": "Laudano Nero",
+  "gender": "unisex",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": false,
+  "concentration": "Extrait de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 17200
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "TIZIANA TERENZI EXTRAIT DE PARFUM LAUDANO NERO 100 ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "tiziana-rosso-pompei",
+  "brand": "Tiziana Terenzi",
+  "brandSlug": "tiziana",
+  "name": "Rosso Pompei",
+  "gender": "women",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": false,
+  "concentration": "Extrait de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 27100
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "TIZIANA TERENZI EXTRAIT DE PARFUM LINEA TT 100 ML ROSSO POMPEI"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "tiziana-spirito-fiorentino",
+  "brand": "Tiziana Terenzi",
+  "brandSlug": "tiziana",
+  "name": "Spirito Fiorentino",
+  "gender": "unisex",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": false,
+  "concentration": "Extrait de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 29600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "TIZIANA TERENZI EXTRAIT DE PARFUM SPIRITO FIORENTINO 100 ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "tiziana-tabit",
+  "brand": "Tiziana Terenzi",
+  "brandSlug": "tiziana",
+  "name": "Tabit",
+  "gender": "unisex",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": false,
+  "concentration": "Extrait de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 36300
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "TIZIANA TERENZI EXTRAIT DE PARFUM TABIT 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "tiziana-ursa",
+  "brand": "Tiziana Terenzi",
+  "brandSlug": "tiziana",
+  "name": "Ursa",
+  "gender": "unisex",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": false,
+  "concentration": "Extrait de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 23600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "TIZIANA TERENZI EXTRAIT DE PARFUM URSA 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "ado-bois-sikar",
+  "brand": "Atelier des Ors",
+  "brandSlug": "ado",
+  "name": "Bois Sikar",
+  "gender": "unisex",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 26500
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ADO BOIS SIKAR  EDP 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "ado-cuir-sacre",
+  "brand": "Atelier des Ors",
+  "brandSlug": "ado",
+  "name": "Cuir Sacre",
+  "gender": "unisex",
+  "family": "leather",
+  "familyLabel": "Leather & Suede",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 24500
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ADO CUIR SACRE  EDP 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "ado-iris-fauve",
+  "brand": "Atelier des Ors",
+  "brandSlug": "ado",
+  "name": "Iris Fauve",
+  "gender": "unisex",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 22600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ADO IRIS FAUVE  EDP 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "ado-lune-feline",
+  "brand": "Atelier des Ors",
+  "brandSlug": "ado",
+  "name": "Lune Feline",
+  "gender": "unisex",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 26800
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ADO LUNE FELINE  EDP 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "ado-noir-by-night",
+  "brand": "Atelier des Ors",
+  "brandSlug": "ado",
+  "name": "Noir by Night",
+  "gender": "unisex",
+  "family": "oud",
+  "familyLabel": "Oud & Incense",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 26400
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ADO NOIR BY NIGHT  EDP 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "ado-novae-vanilla",
+  "brand": "Atelier des Ors",
+  "brandSlug": "ado",
+  "name": "Novae Vanilla",
+  "gender": "unisex",
+  "family": "gourmand",
+  "familyLabel": "Gourmand",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 32800
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ADO NOVAE VANILLA  EDP 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "ado-rose-omeyyade",
+  "brand": "Atelier des Ors",
+  "brandSlug": "ado",
+  "name": "Rose Omeyyade",
+  "gender": "unisex",
+  "family": "floral",
+  "familyLabel": "Floral",
+  "familySure": true,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 24900
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ADO ROSE OMEYYADE  EDP 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
+  "id": "ado-rouge-saray",
+  "brand": "Atelier des Ors",
+  "brandSlug": "ado",
+  "name": "Rouge Saray",
+  "gender": "unisex",
+  "family": "amber",
+  "familyLabel": "Amber & Spice",
+  "familySure": false,
+  "concentration": "Eau de Parfum",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 23400
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ADO ROUGE SARAY  EDP 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ }
+]

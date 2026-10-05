@@ -21,7 +21,7 @@ const CHAIN = [
   },
   {
     h: 'Kept out of the heat',
-    p: 'Fragrance oxidises in a hot warehouse and light flattens the top notes. Ours is shaded, ventilated and stocked away from direct sun; fast-moving attars sit on the coolest wall.'
+    p: 'Fragrance oxidises in a hot warehouse and light flattens the top notes. Ours is shaded, ventilated and stocked away from direct sun; fast-moving oud sits on the coolest wall.'
   },
   {
     h: 'Shipped to the region',
@@ -64,7 +64,7 @@ export default function AboutPage() {
           </h1>
         </div>
         <p className="lead" data-r style={{ marginTop: 'var(--space-6)', maxWidth: '58ch' }}>
-          Nisa Perfumes buys Arabic attars, niche houses and international designer fragrance from
+          Nisa Perfumes buys niche and luxury fragrance from
           the houses themselves and their appointed distributors, and moves it into five East and
           Southern African markets. We sell two ways from the same holding:{' '}
           <strong>direct to you</strong>, one bottle at a time, and{' '}
@@ -91,7 +91,7 @@ export default function AboutPage() {
               regionally supplied.
             </h2>
             <p className="muted" style={{ maxWidth: '36ch', marginTop: 'var(--space-4)' }}>
-              One holding in Nairobi, five markets served, and eleven houses we answer for by name.
+              One holding in Nairobi, five markets served, and ten houses we answer for by name.
             </p>
           </div>
         </div>
@@ -198,7 +198,7 @@ export default function AboutPage() {
           <div data-r style={{ border: '1px solid var(--rule)', padding: 'var(--space-6)' }}>
             <h3 className="d3">For your shop — B2B</h3>
             <p className="muted">
-              Wholesale supply from twelve units, mixed across eleven houses, quoted landed to your
+              Wholesale supply from twelve units, mixed across ten houses, quoted landed to your
               city with duty and inland freight included. A stock list that updates weekly, testers
               at cost, staff scent training at stockist level, and territory agreements for
               distributors.

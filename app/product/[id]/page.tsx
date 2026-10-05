@@ -1,4 +1,4 @@
-/* A product page per bottle, generated at build time — all 87 of them.
+/* A product page per bottle, generated at build time — all 150 of them.
    The old address, product.html?id=pdm-layton, is now /product/pdm-layton. */
 
 import type { Metadata } from 'next';

@@ -74,7 +74,7 @@ export default function WholesalePage() {
               Stock Nisa.
             </h1>
             <p className="lead" data-s="3" style={{ marginTop: 'var(--space-4)' }}>
-              Wholesale supply of eleven houses to boutiques, salons, pharmacies, duty-free and
+              Wholesale supply of ten houses to boutiques, salons, pharmacies, duty-free and
               online resellers in five markets. Trade pricing starts at twelve units, mixed across
               the range.
             </p>

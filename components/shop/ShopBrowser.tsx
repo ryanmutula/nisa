@@ -4,7 +4,7 @@
    The shelf: the family strip, the house directory, the filter column
    and the grid, all reading one piece of state.
 
-   The state is the URL. Arriving at /shop?brand=nishane&tag=attar shows
+   The state is the URL. Arriving at /shop?brand=nishane&tag=bestseller shows
    that selection, and every click rewrites the address with
    history.replaceState — so a filtered shelf can be sent to someone, and
    the back button still means "the page before", not "one filter ago".
@@ -40,7 +40,7 @@ const SORTS: [string, string][] = [
   ['az', 'A–Z']
 ];
 
-const CHARACTER = ['attar', 'bestseller', 'new', 'rare', 'signature', 'value'];
+const CHARACTER = ['bestseller', 'signature', 'new', 'oud', 'gourmand', 'fresh', 'value', 'rare'];
 const PRICE_STEPS = [0, 15000, 25000, 40000];
 
 const SORTERS: Record<string, (a: Product, b: Product) => number> = {

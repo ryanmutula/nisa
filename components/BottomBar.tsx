@@ -79,7 +79,7 @@ function ShopBarCopy() {
   const { money } = useStore();
   return (
     <p className="muted">
-      Eleven houses, stocked in Nairobi. Free delivery over{' '}
+      Ten houses, stocked in Nairobi. Free delivery over{' '}
       <span className="num">{money(config.freeDeliveryOver)}</span>.
     </p>
   );

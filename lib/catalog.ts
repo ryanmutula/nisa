@@ -1,5 +1,5 @@
 /* The catalogue, and the handful of lookups every page needs.
-   catalog.json is the single source of truth — 87 products, 11 houses and
+   catalog.json is the single source of truth — 150 products, 10 houses and
    9 families. To add a product, copy an object and drop three images into
    public/assets/img/products named after its id (see README). */
 

@@ -46,7 +46,8 @@ const TRUST = [
 
 export default function HomePage() {
   const featured = tagged('bestseller').slice(0, 8);
-  const attar = tagged('attar')[0] ?? products[0];
+  // the bottle that stands on its own plate inside the oud band
+  const oudHero = products.find((p) => p.family === 'oud') ?? products[0];
 
   return (
     <>
@@ -64,7 +65,7 @@ export default function HomePage() {
             <span className="it">whole.</span>
           </h1>
           <p className="lead muted" data-s="3">
-            Eleven houses, bought at source and carried the short way — so what reaches you smells
+            Ten houses, bought at source and carried the short way — so what reaches you smells
             the way the perfumer signed it off.
           </p>
           <div className="hero-cta" data-s="4">
@@ -147,26 +148,26 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* the attar library */}
+      {/* the oud library */}
       <section className="band dark">
         <div className="wrap split wide">
           <div data-r>
             <p className="kicker" data-s="1">
-              The attar library
+              The oud library
             </p>
             <h2 className="d2" data-s="2">
-              Oil, not alcohol.
+              Resin, not sugar.
               <br />
               Hours, not minutes.
             </h2>
             <p className="lead" data-s="3" style={{ color: 'rgba(239,236,230,.78)' }}>
-              An attar is a fragrance in oil — pressed close to the skin, slow to open, and long
-              past the point where a spray has gone quiet. Amouage, Ajmal and Afnan still make
-              theirs the traditional way, and those are the bottles we keep coolest and move
-              fastest.
+              Oud is the oldest thing on this shelf and the hardest to fake. Montale and Mancera
+              build theirs around Indian and Laotian agarwood; Initio and Nishane take it
+              somewhere stranger. These are the bottles we keep coolest, and the ones that outlast
+              everything else in the bag.
             </p>
             <div style={{ marginTop: 'var(--space-6)' }} data-s="4">
-              <Link className="b light" href={shopUrl({ tag: 'attar' })}>
+              <Link className="b light" href={shopUrl({ family: 'oud' })}>
                 <span>Enter the library</span>
               </Link>
             </div>
@@ -176,7 +177,7 @@ export default function HomePage() {
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
                 src="/assets/img/editorial/attar-vial.webp"
-                alt="An attar vial of amber oil held to the light"
+                alt="A vial of amber oil held to the light"
                 loading="lazy"
               />
             </div>
@@ -192,8 +193,8 @@ export default function HomePage() {
             >
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
-                src={asset(attar.image)}
-                alt={`${attar.brand} ${attar.name} bottle`}
+                src={asset(oudHero.image)}
+                alt={`${oudHero.brand} ${oudHero.name} bottle`}
                 loading="lazy"
                 style={{ maxHeight: '78%', width: 'auto' }}
               />
@@ -286,7 +287,7 @@ export default function HomePage() {
             <p className="kicker">Stay close</p>
             <h2 className="d2">New arrivals, before the shelf.</h2>
             <p className="muted" style={{ maxWidth: '40ch' }}>
-              One note a month: what has landed, what is nearly gone, and the occasional attar we
+              One note a month: what has landed, what is nearly gone, and the occasional bottle we
               only got six of.
             </p>
             <div className="fig land" style={{ marginTop: 'var(--space-6)' }}>

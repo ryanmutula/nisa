@@ -13,7 +13,7 @@ import type { Product } from '@/lib/types';
 import { useReducedMotion } from '../hooks';
 import { useStore } from '../store';
 
-const PICKS = ['amouage-interlude-man', 'pdm-layton', 'nishane-hacivat', 'amouage-oud-ulya'];
+const PICKS = ['pdm-layton', 'nishane-hacivat', 'roja-elysium-pour-homme', 'xerjoff-erba-pura'];
 
 function heroBottles(): Product[] {
   const picks = PICKS.map((id) => byId(id)).filter((p): p is Product => Boolean(p));

@@ -118,7 +118,7 @@ export default function FilmBand() {
             data-s="3"
             style={{ marginTop: 'var(--space-4)', color: 'rgba(239,236,230,.82)' }}
           >
-            Eleven houses, from Muscat to Istanbul to Paris — chosen for what they do on skin in
+            Ten houses, from Istanbul to London to Turin — chosen for what they do on skin in
             this climate, not for what they do on a shelf.
           </p>
           <div style={{ marginTop: 'var(--space-6)' }} data-s="4">
