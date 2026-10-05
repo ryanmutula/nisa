@@ -228,6 +228,7 @@
    },
    "description": "Layton with the lights down: the same apple opening, resolved into incense and sandalwood instead of sugar.",
    "tags": [
+    "rare",
     "signature"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
@@ -471,8 +472,8 @@
    },
    "description": "Delina with the volume up and the sugar down. Rose, still, but wearing a heavier coat.",
    "tags": [
-    "women",
-    "rare"
+    "rare",
+    "women"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -518,8 +519,8 @@
    },
    "description": "Clean laundry made expensive. White musk and orange blossom, nothing shouting, everything noticed.",
    "tags": [
-    "women",
-    "bestseller"
+    "bestseller",
+    "women"
    ],
    "image": "assets/img/products/pdm-valaya-sq.webp",
    "thumb": "assets/img/products/pdm-valaya-sq-sm.webp",
@@ -893,8 +894,8 @@
    },
    "description": "Guava and blackcurrant, unapologetically fruity, held together by a musk that keeps it from being a cordial.",
    "tags": [
-    "women",
-    "new"
+    "new",
+    "women"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -986,8 +987,8 @@
    },
    "description": "Honey and pear kept just this side of edible. Soft, close, and difficult to put down.",
    "tags": [
-    "women",
-    "new"
+    "new",
+    "women"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -1033,8 +1034,8 @@
    },
    "description": "White flowers at full volume, with a vanilla base doing the talking after the first hour.",
    "tags": [
-    "women",
-    "new"
+    "new",
+    "women"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -1264,7 +1265,7 @@
      "Musk"
     ]
    },
-   "description": "Ormonde Jayne Babylonia. Dry woods, kept clean at the top.",
+   "description": "Dry woods, kept clean at the top. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -1306,7 +1307,7 @@
      "Musk"
     ]
    },
-   "description": "Ormonde Jayne Byzance. Warm resins and spice, built for an evening.",
+   "description": "Warm resins and spice, built for an evening. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -1348,7 +1349,7 @@
      "Musk"
     ]
    },
-   "description": "Ormonde Jayne Kashmir. Warm resins and spice, built for an evening.",
+   "description": "Warm resins and spice, built for an evening. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -1390,7 +1391,7 @@
      "Musk"
     ]
    },
-   "description": "Ormonde Jayne Vetiveria. Dry woods, kept clean at the top.",
+   "description": "Dry woods, kept clean at the top. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -1431,7 +1432,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Ormonde Jayne Bukhara. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -1472,7 +1473,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Ormonde Jayne Damask. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "women"
    ],
@@ -1517,7 +1518,7 @@
      "Cedar"
     ]
    },
-   "description": "Ormonde Jayne Muscat. Citrus with enough base to last the day.",
+   "description": "Citrus with enough base underneath it to last the day. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "fresh"
    ],
@@ -1560,7 +1561,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Ormonde Jayne Sakura. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "women"
    ],
@@ -1605,7 +1606,7 @@
      "Cedar"
     ]
    },
-   "description": "Ormonde Jayne Verano. Citrus with enough base to last the day.",
+   "description": "Citrus with enough base underneath it to last the day. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "fresh"
    ],
@@ -1649,7 +1650,7 @@
      "Musk"
     ]
    },
-   "description": "Ormonde Jayne Ambre Royal. Warm resins and spice, built for an evening.",
+   "description": "Warm resins and spice, built for an evening. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -1691,7 +1692,7 @@
      "Musk"
     ]
    },
-   "description": "Ormonde Jayne Ormonde Man. Dry woods, kept clean at the top.",
+   "description": "Dry woods, kept clean at the top. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -1733,9 +1734,9 @@
      "Musk"
     ]
    },
-   "description": "Ormonde Jayne Ormonde Woman. Dry woods, kept clean at the top.",
+   "description": "Dry woods, kept clean at the top. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
-    "women"
+    "signature"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -1776,7 +1777,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Ormonde Jayne Osmanthus. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "women"
    ],
@@ -1820,9 +1821,9 @@
      "Musk"
     ]
    },
-   "description": "Ormonde Jayne Montabaco Intensivo. Leather and suede, with spice above it.",
+   "description": "Leather and suede, with spice above it. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
-    "leather"
+    "bestseller"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -1863,7 +1864,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Ormonde Jayne Champaca. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "women"
    ],
@@ -1906,9 +1907,9 @@
      "Sandalwood"
     ]
    },
-   "description": "Ormonde Jayne Frangipani. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
-    "women"
+    "signature"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -1951,7 +1952,7 @@
      "Cedar"
     ]
    },
-   "description": "Ormonde Jayne Isfarkand. Citrus with enough base to last the day.",
+   "description": "Citrus with enough base underneath it to last the day. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "fresh"
    ],
@@ -1996,7 +1997,7 @@
      "Cedar"
     ]
    },
-   "description": "Ormonde Jayne Qi Intensivo. Citrus with enough base to last the day.",
+   "description": "Citrus with enough base underneath it to last the day. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "fresh"
    ],
@@ -2040,7 +2041,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Ormonde Jayne Vanille des Afriques Intensivo. Sweet, but composed rather than edible.",
+   "description": "Sweet, but composed rather than edible. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "gourmand"
    ],
@@ -2084,7 +2085,7 @@
      "Musk"
     ]
    },
-   "description": "Nishane Afrika-Olifant. Oud, resin and smoke, in the Arabian manner.",
+   "description": "Oud, resin and smoke, in the Arabian manner. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "oud",
     "value"
@@ -2129,7 +2130,7 @@
      "Musk"
     ]
    },
-   "description": "Nishane Ambra Calabria. Warm resins and spice, built for an evening.",
+   "description": "Warm resins and spice, built for an evening. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -2171,9 +2172,10 @@
      "Sandalwood"
     ]
    },
-   "description": "Nishane Ani. Sweet, but composed rather than edible.",
+   "description": "Sweet, but composed rather than edible. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
-    "gourmand"
+    "bestseller",
+    "signature"
    ],
    "image": "assets/img/products/nishane-ani-sq.webp",
    "thumb": "assets/img/products/nishane-ani-sq-sm.webp",
@@ -2219,7 +2221,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Nishane Deziro. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -2261,10 +2263,9 @@
      "Sandalwood"
     ]
    },
-   "description": "Nishane Fan Your Flames. Sweet, but composed rather than edible.",
+   "description": "Sweet, but composed rather than edible. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
-    "gourmand",
-    "value"
+    "signature"
    ],
    "image": "assets/img/products/nishane-fan-your-flames-sq.webp",
    "thumb": "assets/img/products/nishane-fan-your-flames-sq-sm.webp",
@@ -2307,8 +2308,11 @@
      "Musk"
     ]
    },
-   "description": "Nishane Hacivat. Dry woods, kept clean at the top.",
-   "tags": [],
+   "description": "Dry woods, kept clean at the top. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
+   "tags": [
+    "bestseller",
+    "signature"
+   ],
    "image": "assets/img/products/nishane-hacivat-sq.webp",
    "thumb": "assets/img/products/nishane-hacivat-sq-sm.webp",
    "cutout": "assets/img/products/nishane-hacivat-cut.webp",
@@ -2350,7 +2354,7 @@
      "Musk"
     ]
    },
-   "description": "Nishane Hacivat X. Dry woods, kept clean at the top.",
+   "description": "Dry woods, kept clean at the top. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/nishane-hacivat-x-sq.webp",
    "thumb": "assets/img/products/nishane-hacivat-x-sq-sm.webp",
@@ -2393,7 +2397,7 @@
      "Musk"
     ]
    },
-   "description": "Nishane Hacivat Oud. Oud, resin and smoke, in the Arabian manner.",
+   "description": "Oud, resin and smoke, in the Arabian manner. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "oud"
    ],
@@ -2437,9 +2441,9 @@
      "Sandalwood"
     ]
    },
-   "description": "Nishane Hundred Silent Ways. Skin-close musk, and little else in the way.",
+   "description": "Skin-close musk, with little else in the way. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
-    "value"
+    "bestseller"
    ],
    "image": "assets/img/products/nishane-hundred-silent-ways-sq.webp",
    "thumb": "assets/img/products/nishane-hundred-silent-ways-sq-sm.webp",
@@ -2482,7 +2486,7 @@
      "Musk"
     ]
    },
-   "description": "Nishane Karagoz. Leather and suede, with spice above it.",
+   "description": "Leather and suede, with spice above it. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "leather",
     "value"
@@ -2527,7 +2531,7 @@
      "Musk"
     ]
    },
-   "description": "Nishane Kredo. Dry woods, kept clean at the top.",
+   "description": "Dry woods, kept clean at the top. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -2569,7 +2573,7 @@
      "Musk"
     ]
    },
-   "description": "Nishane Nefs. Oud, resin and smoke, in the Arabian manner.",
+   "description": "Oud, resin and smoke, in the Arabian manner. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "oud"
    ],
@@ -2613,7 +2617,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Nishane Papilefiko. Sweet, but composed rather than edible.",
+   "description": "Sweet, but composed rather than edible. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "gourmand"
    ],
@@ -2657,7 +2661,7 @@
      "Musk"
     ]
    },
-   "description": "Nishane Shem. Warm resins and spice, built for an evening.",
+   "description": "Warm resins and spice, built for an evening. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -2699,7 +2703,7 @@
      "Musk"
     ]
    },
-   "description": "Nishane Suede et Safran. Leather and suede, with spice above it.",
+   "description": "Leather and suede, with spice above it. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "leather",
     "value"
@@ -2746,7 +2750,7 @@
      "Cedar"
     ]
    },
-   "description": "Nishane Tempfluo. Citrus with enough base to last the day.",
+   "description": "Citrus with enough base underneath it to last the day. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "fresh"
    ],
@@ -2790,7 +2794,7 @@
      "Musk"
     ]
    },
-   "description": "Nishane Tero. Dry woods, kept clean at the top.",
+   "description": "Dry woods, kept clean at the top. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -2831,7 +2835,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Nishane Tuberóza. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "women"
    ],
@@ -2883,7 +2887,7 @@
      "Musk"
     ]
    },
-   "description": "Nishane Wulong Cha. Dry woods, kept clean at the top.",
+   "description": "Dry woods, kept clean at the top. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/nishane-wulong-cha-sq.webp",
    "thumb": "assets/img/products/nishane-wulong-cha-sq-sm.webp",
@@ -2926,7 +2930,7 @@
      "Musk"
     ]
    },
-   "description": "Nishane Wulong Cha X. Dry woods, kept clean at the top.",
+   "description": "Dry woods, kept clean at the top. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -2968,10 +2972,10 @@
      "Musk"
     ]
    },
-   "description": "Roja Parfums Amber Aoud. Oud, resin and smoke, in the Arabian manner.",
+   "description": "Oud, resin and smoke, in the Arabian manner. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
-    "oud",
-    "rare"
+    "rare",
+    "signature"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -3013,7 +3017,7 @@
      "Musk"
     ]
    },
-   "description": "Roja Parfums Aoud. Oud, resin and smoke, in the Arabian manner.",
+   "description": "Oud, resin and smoke, in the Arabian manner. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "oud"
    ],
@@ -3057,7 +3061,7 @@
      "Musk"
     ]
    },
-   "description": "Roja Parfums Apex. Dry woods, kept clean at the top.",
+   "description": "Dry woods, kept clean at the top. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -3098,7 +3102,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Roja Parfums Diaghilev. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "rare"
    ],
@@ -3141,7 +3145,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Roja Parfums Elixir Pour Femme. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "women"
    ],
@@ -3186,7 +3190,7 @@
      "Cedar"
     ]
    },
-   "description": "Roja Parfums Elysium. Citrus with enough base to last the day.",
+   "description": "Citrus with enough base underneath it to last the day. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "fresh"
    ],
@@ -3229,7 +3233,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Roja Parfums Elysium Pour Femme. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "women"
    ],
@@ -3275,9 +3279,10 @@
      "Cedar"
     ]
    },
-   "description": "Roja Parfums Elysium Pour Homme. Citrus with enough base to last the day.",
+   "description": "Citrus with enough base underneath it to last the day. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
-    "fresh"
+    "bestseller",
+    "signature"
    ],
    "image": "assets/img/products/roja-elysium-pour-homme-sq.webp",
    "thumb": "assets/img/products/roja-elysium-pour-homme-sq-sm.webp",
@@ -3294,7 +3299,7 @@
    "id": "roja-elysium-pour-homme-parfum",
    "brand": "Roja Parfums",
    "brandSlug": "roja",
-   "name": "Elysium Pour Homme",
+   "name": "Elysium Pour Homme Parfum",
    "gender": "men",
    "family": "citrus",
    "familyLabel": "Citrus",
@@ -3321,7 +3326,7 @@
      "Cedar"
     ]
    },
-   "description": "Roja Parfums Elysium Pour Homme. Citrus with enough base to last the day.",
+   "description": "Citrus with enough base underneath it to last the day. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "fresh"
    ],
@@ -3365,7 +3370,7 @@
      "Musk"
     ]
    },
-   "description": "Roja Parfums Enigma. Warm resins and spice, built for an evening.",
+   "description": "Warm resins and spice, built for an evening. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -3407,7 +3412,7 @@
      "Musk"
     ]
    },
-   "description": "Roja Parfums Enigma Aoud Pour Femme. Oud, resin and smoke, in the Arabian manner.",
+   "description": "Oud, resin and smoke, in the Arabian manner. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "oud",
     "women"
@@ -3452,8 +3457,10 @@
      "Musk"
     ]
    },
-   "description": "Roja Parfums Enigma Pour Homme. Warm resins and spice, built for an evening.",
-   "tags": [],
+   "description": "Warm resins and spice, built for an evening. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
+   "tags": [
+    "bestseller"
+   ],
    "image": "assets/img/products/roja-enigma-pour-homme-sq.webp",
    "thumb": "assets/img/products/roja-enigma-pour-homme-sq-sm.webp",
    "cutout": "assets/img/products/roja-enigma-pour-homme-cut.webp",
@@ -3496,7 +3503,7 @@
      "Cedar"
     ]
    },
-   "description": "Roja Parfums Isola Blu. Citrus with enough base to last the day.",
+   "description": "Citrus with enough base underneath it to last the day. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "fresh"
    ],
@@ -3540,7 +3547,7 @@
      "Cedar"
     ]
    },
-   "description": "Roja Parfums Isola Verde. Air and salt, over a quiet musk.",
+   "description": "Air and salt over a quiet musk. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "fresh"
    ],
@@ -3584,7 +3591,7 @@
      "Musk"
     ]
    },
-   "description": "Roja Parfums Manhattan. Dry woods, kept clean at the top.",
+   "description": "Dry woods, kept clean at the top. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -3626,7 +3633,7 @@
      "Musk"
     ]
    },
-   "description": "Roja Parfums Parfum de la Nuit. Oud, resin and smoke, in the Arabian manner.",
+   "description": "Oud, resin and smoke, in the Arabian manner. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "oud",
     "rare"
@@ -3670,7 +3677,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Roja Parfums Reckless. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "women"
    ],
@@ -3713,9 +3720,9 @@
      "Sandalwood"
     ]
    },
-   "description": "Roja Parfums Scandal. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
-    "women"
+    "bestseller"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -3757,7 +3764,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Initio Parfums Privés Absolute Aphrodisiac. Skin-close musk, and little else in the way.",
+   "description": "Skin-close musk, with little else in the way. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -3798,7 +3805,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Initio Parfums Privés Atomic Rose. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "women"
    ],
@@ -3843,7 +3850,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Initio Parfums Privés Blessed Baraka. Sweet, but composed rather than edible.",
+   "description": "Sweet, but composed rather than edible. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "gourmand"
    ],
@@ -3887,7 +3894,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Initio Parfums Privés High Frequency. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -3929,7 +3936,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Initio Parfums Privés Musk Therapy. Skin-close musk, and little else in the way.",
+   "description": "Skin-close musk, with little else in the way. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/initio-musk-therapy-sq.webp",
    "thumb": "assets/img/products/initio-musk-therapy-sq-sm.webp",
@@ -3972,7 +3979,7 @@
      "Musk"
     ]
    },
-   "description": "Initio Parfums Privés Mystic Experience. Warm resins and spice, built for an evening.",
+   "description": "Warm resins and spice, built for an evening. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -4014,7 +4021,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Initio Parfums Privés Narcotic Delight. Sweet, but composed rather than edible.",
+   "description": "Sweet, but composed rather than edible. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "gourmand"
    ],
@@ -4058,9 +4065,10 @@
      "Musk"
     ]
    },
-   "description": "Initio Parfums Privés Oud for Greatness. Oud, resin and smoke, in the Arabian manner.",
+   "description": "Oud, resin and smoke, in the Arabian manner. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
-    "oud"
+    "bestseller",
+    "signature"
    ],
    "image": "assets/img/products/initio-oud-for-greatness-sq.webp",
    "thumb": "assets/img/products/initio-oud-for-greatness-sq-sm.webp",
@@ -4103,7 +4111,7 @@
      "Musk"
     ]
    },
-   "description": "Initio Parfums Privés Oud for Greatness Neo. Oud, resin and smoke, in the Arabian manner.",
+   "description": "Oud, resin and smoke, in the Arabian manner. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "oud"
    ],
@@ -4147,7 +4155,7 @@
      "Musk"
     ]
    },
-   "description": "Initio Parfums Privés Oud for Happiness. Oud, resin and smoke, in the Arabian manner.",
+   "description": "Oud, resin and smoke, in the Arabian manner. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "oud"
    ],
@@ -4192,8 +4200,10 @@
      "Musk"
     ]
    },
-   "description": "Initio Parfums Privés Paragon. Dry woods, kept clean at the top.",
-   "tags": [],
+   "description": "Dry woods, kept clean at the top. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
+   "tags": [
+    "signature"
+   ],
    "image": "assets/img/products/initio-paragon-sq.webp",
    "thumb": "assets/img/products/initio-paragon-sq-sm.webp",
    "cutout": "assets/img/products/initio-paragon-cut.webp",
@@ -4235,7 +4245,7 @@
      "Musk"
     ]
    },
-   "description": "Initio Parfums Privés Power Self. Warm resins and spice, built for an evening.",
+   "description": "Warm resins and spice, built for an evening. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -4276,9 +4286,9 @@
      "Sandalwood"
     ]
    },
-   "description": "Initio Parfums Privés Psychedelic Love. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
-    "women"
+    "bestseller"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -4320,9 +4330,9 @@
      "Sandalwood"
     ]
    },
-   "description": "Initio Parfums Privés Rehab. Sweet, but composed rather than edible.",
+   "description": "Sweet, but composed rather than edible. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
-    "gourmand"
+    "bestseller"
    ],
    "image": "assets/img/products/initio-rehab-sq.webp",
    "thumb": "assets/img/products/initio-rehab-sq-sm.webp",
@@ -4655,8 +4665,8 @@
    },
    "description": "Red berries and vanilla, close to the skin and slow to leave.",
    "tags": [
-    "women",
-    "value"
+    "value",
+    "women"
    ],
    "image": "assets/img/products/mancera-instant-crush-sq.webp",
    "thumb": "assets/img/products/mancera-instant-crush-sq-sm.webp",
@@ -4751,8 +4761,8 @@
    },
    "description": "Tropical fruit without the suncream accord. Bright, sweet, and very hard to dislike.",
    "tags": [
-    "women",
-    "value"
+    "value",
+    "women"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -4798,8 +4808,8 @@
    },
    "description": "Rose dipped in caramel. Sweeter than Roses Vanille and entirely unbothered about it.",
    "tags": [
-    "women",
-    "value"
+    "value",
+    "women"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -5029,9 +5039,9 @@
      "Sandalwood"
     ]
    },
-   "description": "Xerjoff 17/17 Damarose. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
-    "women"
+    "rare"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -5073,9 +5083,9 @@
      "Sandalwood"
     ]
    },
-   "description": "Xerjoff 1861 Naxos. Sweet, but composed rather than edible.",
+   "description": "Sweet, but composed rather than edible. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
-    "gourmand"
+    "bestseller"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -5117,7 +5127,7 @@
      "Musk"
     ]
    },
-   "description": "Xerjoff ATP Torino 24. Dry woods, kept clean at the top.",
+   "description": "Dry woods, kept clean at the top. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -5159,7 +5169,7 @@
      "Musk"
     ]
    },
-   "description": "Xerjoff ATP Torino 25. Dry woods, kept clean at the top.",
+   "description": "Dry woods, kept clean at the top. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -5201,7 +5211,7 @@
      "Musk"
     ]
    },
-   "description": "Xerjoff Comandante. Dry woods, kept clean at the top.",
+   "description": "Dry woods, kept clean at the top. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -5243,7 +5253,7 @@
      "Musk"
     ]
    },
-   "description": "Xerjoff Don. Leather and suede, with spice above it.",
+   "description": "Leather and suede, with spice above it. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "leather"
    ],
@@ -5287,7 +5297,7 @@
      "Musk"
     ]
    },
-   "description": "Xerjoff Ouverture. Warm resins and spice, built for an evening.",
+   "description": "Warm resins and spice, built for an evening. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -5328,7 +5338,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Xerjoff V Accento. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "women"
    ],
@@ -5373,7 +5383,7 @@
      "Cedar"
     ]
    },
-   "description": "Xerjoff Erba Gold. Citrus with enough base to last the day.",
+   "description": "Citrus with enough base underneath it to last the day. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "fresh"
    ],
@@ -5418,9 +5428,10 @@
      "Cedar"
     ]
    },
-   "description": "Xerjoff Erba Pura. Citrus with enough base to last the day.",
+   "description": "Citrus with enough base underneath it to last the day. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
-    "fresh"
+    "bestseller",
+    "signature"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -5461,7 +5472,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Xerjoff Purple Accento. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "women"
    ],
@@ -5505,7 +5516,7 @@
      "Cedar"
     ]
    },
-   "description": "Xerjoff Zefiro. Air and salt, over a quiet musk.",
+   "description": "Air and salt over a quiet musk. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "fresh"
    ],
@@ -5554,8 +5565,8 @@
    "description": "The bottle that taught a generation what oud smells like. Rose, smoke and medicine, in that order.",
    "tags": [
     "bestseller",
-    "oud",
-    "classic"
+    "classic",
+    "oud"
    ],
    "image": "assets/img/products/montale-black-aoud-sq.webp",
    "thumb": "assets/img/products/montale-black-aoud-sq-sm.webp",
@@ -5603,8 +5614,8 @@
    },
    "description": "Saffron and oud softened by vanilla — the gentlest way into the house's Aoud line.",
    "tags": [
-    "oud",
-    "bestseller"
+    "bestseller",
+    "oud"
    ],
    "image": "assets/img/products/montale-starry-nights-sq.webp",
    "thumb": "assets/img/products/montale-starry-nights-sq-sm.webp",
@@ -5794,8 +5805,8 @@
    },
    "description": "Cocoa and orange peel. Easily the most literal fragrance in the room, and it still sells out.",
    "tags": [
-    "gourmand",
-    "bestseller"
+    "bestseller",
+    "gourmand"
    ],
    "image": "assets/img/products/montale-chocolate-greedy-sq.webp",
    "thumb": "assets/img/products/montale-chocolate-greedy-sq-sm.webp",
@@ -5888,8 +5899,8 @@
    },
    "description": "Raspberry and praline over a rose. Young, loud, and extremely popular with its audience.",
    "tags": [
-    "women",
-    "value"
+    "value",
+    "women"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -5936,8 +5947,8 @@
    },
    "description": "Rose and espresso — the house's most copied idea, in its most concentrated form.",
    "tags": [
-    "gourmand",
-    "bestseller"
+    "bestseller",
+    "gourmand"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -5984,8 +5995,8 @@
    },
    "description": "Leather and saffron over oud, with just enough vanilla to keep it civil.",
    "tags": [
-    "oud",
-    "new"
+    "new",
+    "oud"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -6122,7 +6133,7 @@
      "Cedar"
     ]
    },
-   "description": "Tiziana Terenzi Andromeda. Air and salt, over a quiet musk.",
+   "description": "Air and salt over a quiet musk. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "fresh"
    ],
@@ -6166,7 +6177,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Tiziana Terenzi Draco. Sweet, but composed rather than edible.",
+   "description": "Sweet, but composed rather than edible. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "gourmand"
    ],
@@ -6210,7 +6221,7 @@
      "Musk"
     ]
    },
-   "description": "Tiziana Terenzi Gold Rose Oudh. Oud, resin and smoke, in the Arabian manner.",
+   "description": "Oud, resin and smoke, in the Arabian manner. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "oud",
     "value"
@@ -6255,9 +6266,9 @@
      "Sandalwood"
     ]
    },
-   "description": "Tiziana Terenzi Halley. Sweet, but composed rather than edible.",
+   "description": "Sweet, but composed rather than edible. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
-    "gourmand"
+    "bestseller"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -6299,10 +6310,10 @@
      "Sandalwood"
     ]
    },
-   "description": "Tiziana Terenzi Kirke. Sweet, but composed rather than edible.",
+   "description": "Sweet, but composed rather than edible. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
-    "gourmand",
-    "women"
+    "bestseller",
+    "signature"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -6344,7 +6355,7 @@
      "Musk"
     ]
    },
-   "description": "Tiziana Terenzi Laudano Nero. Warm resins and spice, built for an evening.",
+   "description": "Warm resins and spice, built for an evening. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "value"
    ],
@@ -6387,7 +6398,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Tiziana Terenzi Rosso Pompei. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "women"
    ],
@@ -6431,7 +6442,7 @@
      "Musk"
     ]
    },
-   "description": "Tiziana Terenzi Spirito Fiorentino. Dry woods, kept clean at the top.",
+   "description": "Dry woods, kept clean at the top. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -6473,7 +6484,7 @@
      "Musk"
     ]
    },
-   "description": "Tiziana Terenzi Tabit. Warm resins and spice, built for an evening.",
+   "description": "Warm resins and spice, built for an evening. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -6515,7 +6526,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Tiziana Terenzi Ursa. Sweet, but composed rather than edible.",
+   "description": "Sweet, but composed rather than edible. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "gourmand"
    ],
@@ -6559,7 +6570,7 @@
      "Musk"
     ]
    },
-   "description": "Atelier des Ors Bois Sikar. Dry woods, kept clean at the top.",
+   "description": "Dry woods, kept clean at the top. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -6601,7 +6612,7 @@
      "Musk"
     ]
    },
-   "description": "Atelier des Ors Cuir Sacre. Leather and suede, with spice above it.",
+   "description": "Leather and suede, with spice above it. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "leather"
    ],
@@ -6644,7 +6655,7 @@
      "Sandalwood"
     ]
    },
-   "description": "Atelier des Ors Iris Fauve. A floral heart, carried on a soft base.",
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -6686,7 +6697,7 @@
      "Musk"
     ]
    },
-   "description": "Atelier des Ors Lune Feline. Warm resins and spice, built for an evening.",
+   "description": "Warm resins and spice, built for an evening. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -6728,7 +6739,7 @@
      "Musk"
     ]
    },
-   "description": "Atelier des Ors Noir by Night. Oud, resin and smoke, in the Arabian manner.",
+   "description": "Oud, resin and smoke, in the Arabian manner. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
     "oud"
    ],
@@ -6772,9 +6783,9 @@
      "Sandalwood"
     ]
    },
-   "description": "Atelier des Ors Novae Vanilla. Sweet, but composed rather than edible.",
+   "description": "Sweet, but composed rather than edible. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [
-    "gourmand"
+    "bestseller"
    ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
@@ -6815,8 +6826,10 @@
      "Sandalwood"
     ]
    },
-   "description": "Atelier des Ors Rose Omeyyade. A floral heart, carried on a soft base.",
-   "tags": [],
+   "description": "A floral heart carried on a soft, lasting base. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
+   "tags": [
+    "signature"
+   ],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",
    "availability": [
@@ -6857,7 +6870,7 @@
      "Musk"
     ]
    },
-   "description": "Atelier des Ors Rouge Saray. Warm resins and spice, built for an evening.",
+   "description": "Warm resins and spice, built for an evening. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
    "tags": [],
    "image": "assets/img/products/_placeholder-sq.webp",
    "thumb": "assets/img/products/_placeholder-sq-sm.webp",

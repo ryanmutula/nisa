@@ -41,26 +41,32 @@ def img_paths(pid):
     return {'image': f'{PLACEHOLDER}-sq.webp', 'thumb': f'{PLACEHOLDER}-sq-sm.webp',
             'cutout': None, 'hasArt': False}
 
+# Stand-in copy for a perfume whose real notes have not been collected. It
+# says what the family smells of and admits the rest is coming, rather than
+# inventing a pyramid that would read as fact.
 GENERIC = {
  'oud': ('Oud, resin and smoke, in the Arabian manner.',
          [['Saffron','Bergamot'],['Rose','Oud'],['Amber','Sandalwood','Musk']]),
  'amber': ('Warm resins and spice, built for an evening.',
            [['Bergamot','Pink Pepper'],['Labdanum','Cinnamon'],['Amber','Benzoin','Musk']]),
- 'floral': ('A floral heart, carried on a soft base.',
+ 'floral': ('A floral heart carried on a soft, lasting base.',
             [['Bergamot','Pear'],['Rose','Jasmine'],['Musk','Sandalwood']]),
  'woody': ('Dry woods, kept clean at the top.',
            [['Bergamot','Pink Pepper'],['Cedar','Vetiver'],['Sandalwood','Amber','Musk']]),
- 'citrus': ('Citrus with enough base to last the day.',
+ 'citrus': ('Citrus with enough base underneath it to last the day.',
             [['Lemon','Bergamot','Mandarin'],['Neroli','Jasmine'],['White Musk','Amber','Cedar']]),
- 'fresh': ('Air and salt, over a quiet musk.',
+ 'fresh': ('Air and salt over a quiet musk.',
            [['Bergamot','Grapefruit'],['Marine Accord','Geranium'],['White Musk','Amber','Cedar']]),
  'gourmand': ('Sweet, but composed rather than edible.',
               [['Bergamot','Pink Pepper'],['Vanilla','Tonka Bean'],['Benzoin','Musk','Sandalwood']]),
  'leather': ('Leather and suede, with spice above it.',
              [['Saffron','Bergamot'],['Suede','Orris'],['Leather','Amber','Musk']]),
- 'musk': ('Skin-close musk, and little else in the way.',
+ 'musk': ('Skin-close musk, with little else in the way.',
           [['Bergamot','Pink Pepper'],['Orange Blossom','Orris'],['White Musk','Amber','Sandalwood']]),
 }
+
+STANDIN_TAIL = ('The full note breakdown for this bottle is still being written up — '
+                'call or WhatsApp us and we will talk you through it.')
 
 products, flags = [], []
 for p in picks:
@@ -75,7 +81,7 @@ for p in picks:
         g = GENERIC[p['family']][1]
         notes = {'top': g[0], 'heart': g[1], 'base': g[2]}
     if not desc:
-        desc = f"{p['brand']} {p['name']}. " + GENERIC[p['family']][0]
+        desc = f"{GENERIC[p['family']][0]} {STANDIN_TAIL}"
 
     # Descriptive tags for anything that came through untagged. Only the ones
     # that restate what the bottle IS - never "bestseller" or "new", which are

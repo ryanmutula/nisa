@@ -15,7 +15,7 @@ import Intro from '@/components/Intro';
 import MarketTable from '@/components/MarketTable';
 import RecentlyViewed from '@/components/RecentlyViewed';
 import Shelf from '@/components/Shelf';
-import { asset, countInFamily, families, products, tagged } from '@/lib/catalog';
+import { asset, countInFamily, families, preferArt, products, tagged } from '@/lib/catalog';
 import { routes, shopUrl } from '@/lib/routes';
 
 const STEPS = [
@@ -45,9 +45,9 @@ const TRUST = [
 ];
 
 export default function HomePage() {
-  const featured = tagged('bestseller').slice(0, 8);
+  const featured = preferArt(tagged('bestseller')).slice(0, 8);
   // the bottle that stands on its own plate inside the oud band
-  const oudHero = products.find((p) => p.family === 'oud') ?? products[0];
+  const oudHero = preferArt(products.filter((p) => p.family === 'oud'))[0] ?? products[0];
 
   return (
     <>

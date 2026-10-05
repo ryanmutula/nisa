@@ -54,4 +54,6 @@ mkdir -p xl && cd xl && unzip -o ../Maven_Price_Matrix.xlsx
   points at `_placeholder-sq.webp` instead of a broken path. Both resolve
   themselves as real data arrives: re-run step 6.
 
-What is still outstanding is listed in `../docs-catalogue-gaps.md`.
+What is still outstanding is listed in `../docs-catalogue-gaps.md`. That file was
+generated from `data_quality.json` and then extended by hand, so edit it directly
+rather than expecting a script to reproduce it.

@@ -6,22 +6,28 @@
 import Link from 'next/link';
 import { useEffect, useRef, useState } from 'react';
 
-import { asset, byId, products } from '@/lib/catalog';
+import { asset, byId, hasArt, products } from '@/lib/catalog';
 import { productUrl } from '@/lib/routes';
 import type { Product } from '@/lib/types';
 
 import { useReducedMotion } from '../hooks';
 import { useStore } from '../store';
 
-const PICKS = ['pdm-layton', 'nishane-hacivat', 'roja-elysium-pour-homme', 'xerjoff-erba-pura'];
+/* Four houses, and four bottles we actually have a packshot of - the hero
+   is the first thing on the page and cannot be a placeholder. */
+const PICKS = ['pdm-layton', 'nishane-hacivat', 'roja-elysium-pour-homme', 'initio-oud-for-greatness'];
 
 function heroBottles(): Product[] {
   const picks = PICKS.map((id) => byId(id)).filter((p): p is Product => Boolean(p));
-  /* If one of the four has left the catalogue, fill the gap with a
-     bestseller rather than showing three. */
+  /* If one of the four has left the catalogue, fill the gap with another
+     photographed bestseller rather than showing three. */
   for (const p of products) {
     if (picks.length >= 4) break;
-    if (!picks.includes(p) && (p.tags ?? []).includes('bestseller')) picks.push(p);
+    if (!picks.includes(p) && hasArt(p) && (p.tags ?? []).includes('bestseller')) picks.push(p);
+  }
+  for (const p of products) {
+    if (picks.length >= 4) break;
+    if (!picks.includes(p) && hasArt(p)) picks.push(p);
   }
   return picks.slice(0, 4);
 }
@@ -94,8 +100,6 @@ export default function HeroStage() {
           className={`shot${swapping ? ' swap' : ''}`}
           src={asset(showing.image)}
           alt={`${showing.brand} ${showing.name} bottle`}
-          width={1000}
-          height={1000}
           fetchPriority="high"
         />
       </div>

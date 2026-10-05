@@ -110,6 +110,47 @@ GF = {
 for r in mod.A:
     GF.setdefault(r[0], (r[1], r[2], True))
 
+# Two Roja rows are the same scent at two concentrations, and the card shows
+# the name but not the concentration - so on the shelf they would read as a
+# duplicate listing. The parfum carries it in its name, the way a retailer
+# would list it.
+NAME_OVERRIDE = {
+ 'roja-elysium-pour-homme-parfum': 'Elysium Pour Homme Parfum',
+}
+
+# ── editorial tags ──────────────────────────────────────────────────────
+# "bestseller" and "signature" are claims about what moves, so they are set
+# deliberately rather than derived. These are each house's best-known
+# bottles - the ones the house blurbs in houses.py already single out, and
+# the ones a customer walks in asking for by name. Replace them from real
+# sell-through once there is some; nothing else depends on them.
+EXTRA_TAGS = {
+ 'nishane-hacivat': ['bestseller','signature'],
+ 'nishane-ani': ['bestseller','signature'],
+ 'nishane-hundred-silent-ways': ['bestseller'],
+ 'nishane-fan-your-flames': ['signature'],
+ 'roja-elysium-pour-homme': ['bestseller','signature'],
+ 'roja-scandal': ['bestseller'],
+ 'roja-enigma-pour-homme': ['bestseller'],
+ 'roja-amber-aoud': ['signature','rare'],
+ 'initio-oud-for-greatness': ['bestseller','signature'],
+ 'initio-rehab': ['bestseller'],
+ 'initio-psychedelic-love': ['bestseller'],
+ 'initio-paragon': ['signature'],
+ 'xerjoff-erba-pura': ['bestseller','signature'],
+ 'xerjoff-1861-naxos': ['bestseller'],
+ 'xerjoff-17-17-damarose': ['rare'],
+ 'oj-ormonde-woman': ['signature'],
+ 'oj-montabaco-intensivo-parfum': ['bestseller'],
+ 'oj-frangipani': ['signature'],
+ 'tiziana-kirke': ['bestseller','signature'],
+ 'tiziana-halley': ['bestseller'],
+ 'ado-rose-omeyyade': ['signature'],
+ 'ado-novae-vanilla': ['bestseller'],
+ 'mancera-hindu-kush': ['rare'],
+ 'pdm-layton-exclusif': ['rare'],
+}
+
 FAMILY_LABEL = {'oud':'Oud & Incense','amber':'Amber & Spice','floral':'Floral','woody':'Woody',
  'citrus':'Citrus','fresh':'Fresh & Aquatic','gourmand':'Gourmand','leather':'Leather & Suede',
  'musk':'Musk & Skin'}
@@ -131,14 +172,15 @@ def main():
         g, fam, fam_sure = GF[pid]
         a = AUTHORED.get(pid)
         picks.append({
-            'id': pid, 'brand': d['brand'], 'brandSlug': d['brandSlug'], 'name': d['name'],
+            'id': pid, 'brand': d['brand'], 'brandSlug': d['brandSlug'],
+            'name': NAME_OVERRIDE.get(pid, d['name']),
             'gender': g, 'family': fam, 'familyLabel': FAMILY_LABEL[fam],
             'familySure': fam_sure, 'concentration': d['conc'],
             # Cierra's price plus the KSh 100 uplift, per size
             'sizes': [{'ml': s['ml'], 'price': s['cierra'] + 100} for s in d['sizes']],
             'notes': {'top': a[3], 'heart': a[4], 'base': a[5]} if a else None,
             'description': a[6] if a else None,
-            'tags': a[7] if a else [],
+            'tags': sorted(set((a[7] if a else []) + EXTRA_TAGS.get(pid, []))),
             'notesSure': bool(a and a[8]),
             'sourceRows': d['rows'],
             'availability': MARKETS,

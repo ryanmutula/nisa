@@ -386,7 +386,23 @@ that cannot be right. Add a real price and the size goes back on the bottle.
 | pdm Valaya Exclusif (Eau de Parfum) | 30ml | 53,900 | the 75ml |
 | xerjoff Erba Pura (Eau de Parfum) | 50ml | 27,500 | the 100ml |
 
-## 6. Prices worth a second look
+## 6. "Bestseller", "signature" and "new" are editorial
+
+Those three tags are claims about what moves, and nobody has given me sales
+figures — so they are set by hand in `scripts/picks.py` (`EXTRA_TAGS`) to each
+house's best-known bottles: the ones the house blurbs already single out, and
+the ones a customer walks in asking for by name. 28 products carry
+`bestseller` and 17 carry `signature`, spread across all ten houses.
+
+They drive the home page's "What the region is wearing" shelf, the Bestsellers
+link in the footer, and the Character filter on the shop. Replace them with
+real sell-through when there is some; nothing else depends on them.
+
+The descriptive tags — `oud`, `gourmand`, `fresh`, `leather`, `women`, `value`,
+`rare` — are derived from family, wear and price in `build_catalog.py`, so they
+look after themselves.
+
+## 7. Prices worth a second look
 
 Taken straight from the sheet (Cierra + KSh 100) but they look out of line
 with their neighbours:
@@ -395,4 +411,7 @@ with their neighbours:
 - `pdm-delina` — the 30ml is 15,200 against 48,000 for the 75ml
 - `tiziana-gold-rose-oudh` — 15,200 against 20,600–36,300 for the rest of the house
 - `roja-elixir-pour-femme` — EDP 75ml is 78,000 while the Parfum 50ml is 41,200
+- `roja-elysium-pour-homme-parfum` — the Parfum 50ml came to 41,900, exactly the
+  same as the EDP at 100ml. A half-size parfum at the price of a full-size EDP
+  looks like the two rows were matched to one Cierra listing
 - `initio-magnetic-blend-7` — 19,900 against 33,000–50,600 for the rest of the house (not in the 150, but the same oddity)

@@ -90,6 +90,7 @@
   },
   "description": "Layton with the lights down: the same apple opening, resolved into incense and sandalwood instead of sugar.",
   "tags": [
+   "rare",
    "signature"
   ],
   "notesSure": false,
@@ -347,8 +348,8 @@
   },
   "description": "Delina with the volume up and the sugar down. Rose, still, but wearing a heavier coat.",
   "tags": [
-   "women",
-   "rare"
+   "rare",
+   "women"
   ],
   "notesSure": false,
   "sourceRows": [
@@ -398,8 +399,8 @@
   },
   "description": "Clean laundry made expensive. White musk and orange blossom, nothing shouting, everything noticed.",
   "tags": [
-   "women",
-   "bestseller"
+   "bestseller",
+   "women"
   ],
   "notesSure": true,
   "sourceRows": [
@@ -797,8 +798,8 @@
   },
   "description": "Guava and blackcurrant, unapologetically fruity, held together by a musk that keeps it from being a cordial.",
   "tags": [
-   "women",
-   "new"
+   "new",
+   "women"
   ],
   "notesSure": false,
   "sourceRows": [
@@ -896,8 +897,8 @@
   },
   "description": "Honey and pear kept just this side of edible. Soft, close, and difficult to put down.",
   "tags": [
-   "women",
-   "new"
+   "new",
+   "women"
   ],
   "notesSure": false,
   "sourceRows": [
@@ -946,8 +947,8 @@
   },
   "description": "White flowers at full volume, with a vanilla base doing the talking after the first hour.",
   "tags": [
-   "women",
-   "new"
+   "new",
+   "women"
   ],
   "notesSure": false,
   "sourceRows": [
@@ -1523,7 +1524,9 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "signature"
+  ],
   "notesSure": false,
   "sourceRows": [
    "OJ EDP ORMONDE WOMAN 120ML"
@@ -1586,7 +1589,9 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "bestseller"
+  ],
   "notesSure": false,
   "sourceRows": [
    "OJ PARFUM 4.MONTABACO INTENSIVO 120ML",
@@ -1649,7 +1654,9 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "signature"
+  ],
   "notesSure": false,
   "sourceRows": [
    "OJ PARFUM 88ML  FRANGIPANI"
@@ -1835,7 +1842,10 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "bestseller",
+   "signature"
+  ],
   "notesSure": false,
   "sourceRows": [
    "NISHANE ANI 100 ML"
@@ -1902,7 +1912,9 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "signature"
+  ],
   "notesSure": false,
   "sourceRows": [
    "NISHANE FAN YOUR FLAMES 100ML",
@@ -1934,7 +1946,10 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "bestseller",
+   "signature"
+  ],
   "notesSure": false,
   "sourceRows": [
    "NISHANE HACIVAT 100ML",
@@ -2031,7 +2046,9 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "bestseller"
+  ],
   "notesSure": false,
   "sourceRows": [
    "NISHANE HUNDRED SILENT WAYS 100ML",
@@ -2415,7 +2432,10 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "rare",
+   "signature"
+  ],
   "notesSure": false,
   "sourceRows": [
    "ROJA AMBER AOUD PARFUM 100ML",
@@ -2633,7 +2653,10 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "bestseller",
+   "signature"
+  ],
   "notesSure": false,
   "sourceRows": [
    "ROJA ELYSIUM POUR HOMME EDP 100ML"
@@ -2650,7 +2673,7 @@
   "id": "roja-elysium-pour-homme-parfum",
   "brand": "Roja Parfums",
   "brandSlug": "roja",
-  "name": "Elysium Pour Homme",
+  "name": "Elysium Pour Homme Parfum",
   "gender": "men",
   "family": "citrus",
   "familyLabel": "Citrus",
@@ -2757,7 +2780,9 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "bestseller"
+  ],
   "notesSure": false,
   "sourceRows": [
    "ROJA ENIGMA POUR HOMME PARFUM COLOGNE 100ML"
@@ -2943,7 +2968,9 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "bestseller"
+  ],
   "notesSure": false,
   "sourceRows": [
    "ROJA SCANDAL EDP 75ML"
@@ -3192,7 +3219,10 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "bestseller",
+   "signature"
+  ],
   "notesSure": false,
   "sourceRows": [
    "INITIO OUD FOR GREATNESS 90ML EDP"
@@ -3285,7 +3315,9 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "signature"
+  ],
   "notesSure": false,
   "sourceRows": [
    "INITIO PARAGON 90ML EXT. DE PARFUM"
@@ -3347,7 +3379,9 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "bestseller"
+  ],
   "notesSure": false,
   "sourceRows": [
    "INITIO PSYCHEDELIC LOVE 90ML EDP"
@@ -3378,7 +3412,9 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "bestseller"
+  ],
   "notesSure": false,
   "sourceRows": [
    "INITIO REHAB 90ML EXT. DE PARFUM"
@@ -3732,8 +3768,8 @@
   },
   "description": "Red berries and vanilla, close to the skin and slow to leave.",
   "tags": [
-   "women",
-   "value"
+   "value",
+   "women"
   ],
   "notesSure": false,
   "sourceRows": [
@@ -3834,8 +3870,8 @@
   },
   "description": "Tropical fruit without the suncream accord. Bright, sweet, and very hard to dislike.",
   "tags": [
-   "women",
-   "value"
+   "value",
+   "women"
   ],
   "notesSure": false,
   "sourceRows": [
@@ -3885,8 +3921,8 @@
   },
   "description": "Rose dipped in caramel. Sweeter than Roses Vanille and entirely unbothered about it.",
   "tags": [
-   "women",
-   "value"
+   "value",
+   "women"
   ],
   "notesSure": false,
   "sourceRows": [
@@ -4122,7 +4158,9 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "rare"
+  ],
   "notesSure": false,
   "sourceRows": [
    "XERJOFF 17/17 DAMAROSE - PARFUM 100ML"
@@ -4153,7 +4191,9 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "bestseller"
+  ],
   "notesSure": false,
   "sourceRows": [
    "XERJOFF 1861 NAXOS - EDP 100ML"
@@ -4401,7 +4441,10 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "bestseller",
+   "signature"
+  ],
   "notesSure": false,
   "sourceRows": [
    "XERJOFF XJV ERBA PURA EDP 100ML",
@@ -4513,8 +4556,8 @@
   "description": "The bottle that taught a generation what oud smells like. Rose, smoke and medicine, in that order.",
   "tags": [
    "bestseller",
-   "oud",
-   "classic"
+   "classic",
+   "oud"
   ],
   "notesSure": true,
   "sourceRows": [
@@ -4565,8 +4608,8 @@
   },
   "description": "Saffron and oud softened by vanilla — the gentlest way into the house's Aoud line.",
   "tags": [
-   "oud",
-   "bestseller"
+   "bestseller",
+   "oud"
   ],
   "notesSure": true,
   "sourceRows": [
@@ -4770,8 +4813,8 @@
   },
   "description": "Cocoa and orange peel. Easily the most literal fragrance in the room, and it still sells out.",
   "tags": [
-   "gourmand",
-   "bestseller"
+   "bestseller",
+   "gourmand"
   ],
   "notesSure": true,
   "sourceRows": [
@@ -4870,8 +4913,8 @@
   },
   "description": "Raspberry and praline over a rose. Young, loud, and extremely popular with its audience.",
   "tags": [
-   "women",
-   "value"
+   "value",
+   "women"
   ],
   "notesSure": false,
   "sourceRows": [
@@ -4922,8 +4965,8 @@
   },
   "description": "Rose and espresso — the house's most copied idea, in its most concentrated form.",
   "tags": [
-   "gourmand",
-   "bestseller"
+   "bestseller",
+   "gourmand"
   ],
   "notesSure": false,
   "sourceRows": [
@@ -4973,8 +5016,8 @@
   },
   "description": "Leather and saffron over oud, with just enough vanilla to keep it civil.",
   "tags": [
-   "oud",
-   "new"
+   "new",
+   "oud"
   ],
   "notesSure": false,
   "sourceRows": [
@@ -5201,7 +5244,9 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "bestseller"
+  ],
   "notesSure": false,
   "sourceRows": [
    "TIZIANA TERENZI EXTRAIT DE PARFUM HALLEY 100ML"
@@ -5232,7 +5277,10 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "bestseller",
+   "signature"
+  ],
   "notesSure": false,
   "sourceRows": [
    "TIZIANA TERENZI EXTRAIT DE PARFUM KIRKE 100ML"
@@ -5573,7 +5621,9 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "bestseller"
+  ],
   "notesSure": false,
   "sourceRows": [
    "ADO NOVAE VANILLA  EDP 100ML"
@@ -5604,7 +5654,9 @@
   ],
   "notes": null,
   "description": null,
-  "tags": [],
+  "tags": [
+   "signature"
+  ],
   "notesSure": false,
   "sourceRows": [
    "ADO ROSE OMEYYADE  EDP 100ML"

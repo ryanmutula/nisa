@@ -340,10 +340,12 @@ textarea:focus-visible,
   transform: none;
 }
 
-/* ── images reserve their space ──────────────────────────────────────
-   Every packshot surface already has an aspect ratio, so nothing below it
-   moves when the file arrives. These are the two that did not. */
-.hero-shotwrap img.shot,
+/* ── images stay inside their plate ──────────────────────────────────
+   The attar stage sets only a max-height on its bottle, so a wide packshot
+   could reach past the frame. The hero is deliberately NOT included here:
+   nisa.css gives it `max-width: 78%` to sit the bottle inside its plate
+   with air around it, and a blanket `max-width: 100%` overrode that and
+   let the packshot grow until it covered the caption beneath it. */
 .attar-stage img {
   max-width: 100%;
 }

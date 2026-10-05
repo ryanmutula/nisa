@@ -56,7 +56,7 @@ export const config = {
      promotions, not for anything that must stay secret. */
   coupons: {
     WELCOME10: { pct: 10, label: '10% off your first order' },
-    ATTAR15:   { pct: 15, label: '15% off the attar library', family: 'oud' },
+    OUD15:     { pct: 15, label: '15% off the oud library', family: 'oud' },
     FREEDROP:  { pct: 0,  label: 'Free delivery, any order', freeDelivery: true }
   } as Record<string, Coupon>
 };

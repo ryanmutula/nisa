@@ -15,7 +15,7 @@ import { useCallback, useEffect, useMemo, useState } from 'react';
 
 import Shelf from '@/components/Shelf';
 import { useStore } from '@/components/store';
-import { brandOf, brands, countInFamily, families, products } from '@/lib/catalog';
+import { brandOf, brands, countInFamily, families, hasArt, products } from '@/lib/catalog';
 import { deliveryMarkets } from '@/lib/money';
 import { routes } from '@/lib/routes';
 import type { Product } from '@/lib/types';
@@ -40,7 +40,8 @@ const SORTS: [string, string][] = [
   ['az', 'A–Z']
 ];
 
-const CHARACTER = ['bestseller', 'signature', 'new', 'oud', 'gourmand', 'fresh', 'value', 'rare'];
+const CHARACTER = ['bestseller', 'signature', 'new', 'oud', 'gourmand', 'fresh', 'leather',
+  'office', 'value', 'rare'];
 const PRICE_STEPS = [0, 15000, 25000, 40000];
 
 const SORTERS: Record<string, (a: Product, b: Product) => number> = {
@@ -49,7 +50,15 @@ const SORTERS: Record<string, (a: Product, b: Product) => number> = {
   az: (a, b) => `${a.brand}${a.name}`.localeCompare(`${b.brand}${b.name}`),
   new: (a, b) =>
     Number((b.tags ?? []).includes('new')) - Number((a.tags ?? []).includes('new')),
-  feat: (a, b) => (b.rating ?? 0) - (a.rating ?? 0)
+  /* Featured: photographed bottles first, then the bestsellers, then by
+     name. The first tiebreak stops the opening screen of the shop being a
+     wall of placeholders while imagery is still being collected, and goes
+     quiet by itself once every bottle has its packshot. */
+  feat: (a, b) =>
+    Number(hasArt(b)) - Number(hasArt(a)) ||
+    Number((b.tags ?? []).includes('bestseller')) - Number((a.tags ?? []).includes('bestseller')) ||
+    (b.rating ?? 0) - (a.rating ?? 0) ||
+    `${a.brand}${a.name}`.localeCompare(`${b.brand}${b.name}`)
 };
 
 function count(fn: (p: Product) => boolean): number {

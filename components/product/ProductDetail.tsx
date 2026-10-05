@@ -11,7 +11,7 @@ import { useEffect, useState } from 'react';
 import { HeartFullIcon, HeartIcon, ScalesIcon } from '@/components/icons';
 import NotePyramid from '@/components/NotePyramid';
 import { useStore } from '@/components/store';
-import { asset } from '@/lib/catalog';
+import { asset, hasArt } from '@/lib/catalog';
 import { config } from '@/lib/config';
 import { deliveryMarkets } from '@/lib/money';
 import { shopUrl, whatsAppUrl } from '@/lib/routes';
@@ -52,7 +52,11 @@ export default function ProductDetail({ product: p }: { product: Product }) {
             fetchPriority="high"
           />
         </div>
-        <p className="small muted">Official packshot, supplied by the house.</p>
+        <p className="small muted">
+          {hasArt(p)
+            ? 'Official packshot, supplied by the house.'
+            : 'Photography for this bottle is on its way. Everything else on this page is final — call or WhatsApp us and we will describe it.'}
+        </p>
       </div>
 
       <div data-r>

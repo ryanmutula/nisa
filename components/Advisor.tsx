@@ -87,10 +87,12 @@ export default function Advisor() {
         key: 'budget' as const,
         type: 'one' as const,
         /* The figures are converted, so they follow the header switcher. */
+        /* The shelf runs from about KSh 12,000 to 135,000, so the brackets
+           have to reach further up than they used to. */
         opts: [
-          ['15000', `Up to ${money(15000)}`],
-          ['30000', `Up to ${money(30000)}`],
-          ['60000', `Up to ${money(60000)}`],
+          ['20000', `Up to ${money(20000)}`],
+          ['40000', `Up to ${money(40000)}`],
+          ['80000', `Up to ${money(80000)}`],
           ['0', 'No limit']
         ] as [string, string][]
       },

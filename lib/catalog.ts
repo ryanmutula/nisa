@@ -50,3 +50,22 @@ export function haystack(p: Product): string {
 export function asset(path: string): string {
   return path.startsWith('/') ? path : `/${path}`;
 }
+
+/* ── artwork ────────────────────────────────────────────────────────
+   A perfume whose packshot has not been collected yet points at the
+   shared placeholder plate. Several places need to know the difference:
+   the shop puts photographed bottles first, the hero only rotates
+   through real ones, and the product page does not claim a placeholder
+   was supplied by the house. All of it resolves itself as art arrives -
+   nothing here needs changing when it does. */
+const PLACEHOLDER = '_placeholder';
+
+export function hasArt(p: Product): boolean {
+  return !p.image.includes(PLACEHOLDER);
+}
+
+/** Those of `list` that have a real packshot, falling back to all of it. */
+export function preferArt(list: Product[]): Product[] {
+  const shot = list.filter(hasArt);
+  return shot.length ? shot : list;
+}
