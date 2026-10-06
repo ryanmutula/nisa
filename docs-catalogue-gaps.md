@@ -411,7 +411,9 @@ with their neighbours:
 - `pdm-delina` — the 30ml is 15,200 against 48,000 for the 75ml
 - `tiziana-gold-rose-oudh` — 15,200 against 20,600–36,300 for the rest of the house
 - `roja-elixir-pour-femme` — EDP 75ml is 78,000 while the Parfum 50ml is 41,200
-- `roja-elysium-pour-homme-parfum` — the Parfum 50ml came to 41,900, exactly the
-  same as the EDP at 100ml. A half-size parfum at the price of a full-size EDP
-  looks like the two rows were matched to one Cierra listing
+- `roja-apex-pour-homme` — the Eau Intense came to 52,600, exactly the same as
+  the plain Apex EDP. Roja's concentrations usually differ in price, so the two
+  sheet rows may have matched one Cierra listing. (The same pattern held for
+  Elysium Pour Homme Parfum, which was dropped from the shelf in favour of
+  Apex Pour Homme — a bottle the old site already carried.)
 - `initio-magnetic-blend-7` — 19,900 against 33,000–50,600 for the rest of the house (not in the 150, but the same oddity)

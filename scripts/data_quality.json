@@ -585,6 +585,15 @@
   "art": false
  },
  {
+  "id": "roja-apex-pour-homme",
+  "brand": "Roja Parfums",
+  "name": "Apex Pour Homme Eau Intense",
+  "notes": "generic",
+  "description": "generic",
+  "familySure": false,
+  "art": true
+ },
+ {
   "id": "roja-diaghilev",
   "brand": "Roja Parfums",
   "name": "Diaghilev",
@@ -628,15 +637,6 @@
   "description": "generic",
   "familySure": true,
   "art": true
- },
- {
-  "id": "roja-elysium-pour-homme-parfum",
-  "brand": "Roja Parfums",
-  "name": "Elysium Pour Homme Parfum",
-  "notes": "generic",
-  "description": "generic",
-  "familySure": true,
-  "art": false
  },
  {
   "id": "roja-enigma",

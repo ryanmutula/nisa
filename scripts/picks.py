@@ -24,8 +24,11 @@ PICK = {
  'nishane': "afrika-olifant ambra-calabria ani deziro fan-your-flames hacivat hacivat-x "
             "hacivat-oud hundred-silent-ways karagoz kredo nefs papilefiko shem "
             "suede-et-safran tempfluo tero tuberoza wulong-cha wulong-cha-x",
- 'roja': "amber-aoud aoud apex diaghilev elixir-pour-femme elysium elysium-pour-femme "
-         "elysium-pour-homme elysium-pour-homme-parfum enigma enigma-aoud-pour-femme "
+ # apex-pour-homme is back in place of elysium-pour-homme-parfum: it qualifies
+ # under the rule and was already stocked on the old site, while the parfum was
+ # a second Elysium Pour Homme at an identical price.
+ 'roja': "amber-aoud aoud apex apex-pour-homme diaghilev elixir-pour-femme elysium "
+         "elysium-pour-femme elysium-pour-homme enigma enigma-aoud-pour-femme "
          "enigma-pour-homme isola-blu isola-verde manhattan parfum-de-la-nuit reckless scandal",
  'initio': "absolute-aphrodisiac atomic-rose blessed-baraka high-frequency musk-therapy "
            "mystic-experience narcotic-delight oud-for-greatness oud-for-greatness-neo "
@@ -71,7 +74,8 @@ GF = {
  'oj-vanille-des-afriques-intensivo':('unisex','gourmand',True),
  # Roja
  'roja-amber-aoud':('unisex','oud',True),'roja-aoud':('unisex','oud',True),
- 'roja-apex':('men','woody',False),'roja-diaghilev':('unisex','floral',False),
+ 'roja-apex':('men','woody',False),'roja-apex-pour-homme':('men','woody',False),
+ 'roja-diaghilev':('unisex','floral',False),
  'roja-elixir-pour-femme':('women','floral',False),'roja-elysium':('men','citrus',True),
  'roja-elysium-pour-femme':('women','floral',True),'roja-elysium-pour-homme':('men','citrus',True),
  'roja-elysium-pour-homme-parfum':('men','citrus',True),'roja-enigma':('unisex','amber',False),
@@ -110,12 +114,11 @@ GF = {
 for r in mod.A:
     GF.setdefault(r[0], (r[1], r[2], True))
 
-# Two Roja rows are the same scent at two concentrations, and the card shows
-# the name but not the concentration - so on the shelf they would read as a
-# duplicate listing. The parfum carries it in its name, the way a retailer
-# would list it.
+# Where two rows are the same scent at two concentrations the card would read
+# as a duplicate listing, since it shows the name but not the concentration.
+# Those carry the concentration in the name, the way a retailer lists them.
 NAME_OVERRIDE = {
- 'roja-elysium-pour-homme-parfum': 'Elysium Pour Homme Parfum',
+ 'roja-apex-pour-homme': 'Apex Pour Homme Eau Intense',
 }
 
 # ── editorial tags ──────────────────────────────────────────────────────

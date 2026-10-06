@@ -2512,6 +2512,37 @@
   ]
  },
  {
+  "id": "roja-apex-pour-homme",
+  "brand": "Roja Parfums",
+  "brandSlug": "roja",
+  "name": "Apex Pour Homme Eau Intense",
+  "gender": "men",
+  "family": "woody",
+  "familyLabel": "Woody",
+  "familySure": false,
+  "concentration": "Eau Intense",
+  "sizes": [
+   {
+    "ml": 100,
+    "price": 52600
+   }
+  ],
+  "notes": null,
+  "description": null,
+  "tags": [],
+  "notesSure": false,
+  "sourceRows": [
+   "ROJA APEX EAU INTENSE POUR HOMME EAU DE PARFUM 100ML"
+  ],
+  "availability": [
+   "KE",
+   "UG",
+   "TZ",
+   "RW",
+   "ZM"
+  ]
+ },
+ {
   "id": "roja-diaghilev",
   "brand": "Roja Parfums",
   "brandSlug": "roja",
@@ -2660,37 +2691,6 @@
   "notesSure": false,
   "sourceRows": [
    "ROJA ELYSIUM POUR HOMME EDP 100ML"
-  ],
-  "availability": [
-   "KE",
-   "UG",
-   "TZ",
-   "RW",
-   "ZM"
-  ]
- },
- {
-  "id": "roja-elysium-pour-homme-parfum",
-  "brand": "Roja Parfums",
-  "brandSlug": "roja",
-  "name": "Elysium Pour Homme Parfum",
-  "gender": "men",
-  "family": "citrus",
-  "familyLabel": "Citrus",
-  "familySure": true,
-  "concentration": "Parfum",
-  "sizes": [
-   {
-    "ml": 50,
-    "price": 41900
-   }
-  ],
-  "notes": null,
-  "description": null,
-  "tags": [],
-  "notesSure": false,
-  "sourceRows": [
-   "ROJA ELYSIUM POUR HOMME PARFUM 50ML"
   ],
   "availability": [
    "KE",

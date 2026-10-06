@@ -3074,6 +3074,49 @@
    ]
   },
   {
+   "id": "roja-apex-pour-homme",
+   "brand": "Roja Parfums",
+   "brandSlug": "roja",
+   "name": "Apex Pour Homme Eau Intense",
+   "gender": "men",
+   "family": "woody",
+   "familyLabel": "Woody",
+   "concentration": "Eau Intense",
+   "sizes": [
+    {
+     "ml": 100,
+     "price": 52600
+    }
+   ],
+   "notes": {
+    "top": [
+     "Bergamot",
+     "Pink Pepper"
+    ],
+    "heart": [
+     "Cedar",
+     "Vetiver"
+    ],
+    "base": [
+     "Sandalwood",
+     "Amber",
+     "Musk"
+    ]
+   },
+   "description": "Dry woods, kept clean at the top. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
+   "tags": [],
+   "image": "assets/img/products/roja-apex-pour-homme-sq.webp",
+   "thumb": "assets/img/products/roja-apex-pour-homme-sq-sm.webp",
+   "cutout": "assets/img/products/roja-apex-pour-homme-cut.webp",
+   "availability": [
+    "KE",
+    "UG",
+    "TZ",
+    "RW",
+    "ZM"
+   ]
+  },
+  {
    "id": "roja-diaghilev",
    "brand": "Roja Parfums",
    "brandSlug": "roja",
@@ -3287,51 +3330,6 @@
    "image": "assets/img/products/roja-elysium-pour-homme-sq.webp",
    "thumb": "assets/img/products/roja-elysium-pour-homme-sq-sm.webp",
    "cutout": "assets/img/products/roja-elysium-pour-homme-cut.webp",
-   "availability": [
-    "KE",
-    "UG",
-    "TZ",
-    "RW",
-    "ZM"
-   ]
-  },
-  {
-   "id": "roja-elysium-pour-homme-parfum",
-   "brand": "Roja Parfums",
-   "brandSlug": "roja",
-   "name": "Elysium Pour Homme Parfum",
-   "gender": "men",
-   "family": "citrus",
-   "familyLabel": "Citrus",
-   "concentration": "Parfum",
-   "sizes": [
-    {
-     "ml": 50,
-     "price": 41900
-    }
-   ],
-   "notes": {
-    "top": [
-     "Lemon",
-     "Bergamot",
-     "Mandarin"
-    ],
-    "heart": [
-     "Neroli",
-     "Jasmine"
-    ],
-    "base": [
-     "White Musk",
-     "Amber",
-     "Cedar"
-    ]
-   },
-   "description": "Citrus with enough base underneath it to last the day. The full note breakdown for this bottle is still being written up — call or WhatsApp us and we will talk you through it.",
-   "tags": [
-    "fresh"
-   ],
-   "image": "assets/img/products/_placeholder-sq.webp",
-   "thumb": "assets/img/products/_placeholder-sq-sm.webp",
    "availability": [
     "KE",
     "UG",
