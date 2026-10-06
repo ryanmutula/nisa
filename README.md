@@ -219,10 +219,36 @@ re-running `python3 scripts/build_catalog.py` regenerates the file from
 }
 ```
 
-**To add a product:** copy an object, edit it, and drop three images into
-`public/assets/img/products/` named after the `id` — `<id>-sq.webp` (1000×1000,
-transparent), `<id>-sq-sm.webp` (480×480) and `<id>-cut.webp` (tight crop). The
-product page for it is generated on the next build.
+**To add a product:** copy an object and edit it, then give it a photograph
+(below). The product page is generated on the next build.
+
+### Adding photographs
+
+115 of the 150 are waiting on a packshot and sit on an "image to follow" plate
+until they get one. To see which:
+
+```bash
+npm run images:missing      # prints the list, and writes scripts/images-missing.csv
+```
+
+Then drop photographs into `scripts/incoming/`, each named after the product id
+it belongs to — `oj-ormonde-woman.jpg`, `tiziana-kirke.png` — and run:
+
+```bash
+npm run images:add          # one photo in, three correctly-sized webp files out
+npm run catalog             # point the catalogue at them
+npm run build
+```
+
+Any size and any common format will do. A flat border is trimmed off and the
+bottle is centred with a little air, so photographs from different sources end
+up sharing a scale; transparency is kept where the file has it. The three files
+it writes are `<id>-sq.webp` (1000×1000, the product page), `<id>-sq-sm.webp`
+(480×480, the card) and `<id>-cut.webp` (700×900, the editorial bands) — you can
+of course make them yourself and skip the helper.
+
+Until a bottle has its photograph the shop simply orders it after the ones that
+do, so the shelf never opens on a screen of placeholders.
 
 **To remove one:** delete its object. Nothing references it by name. An order
 already placed for it keeps its own record of what was bought and at what price,

@@ -41,6 +41,13 @@ Steps 1, 2 and 6 need nothing but Python. Steps 3–5 need network access to
 mkdir -p xl && cd xl && unzip -o ../Maven_Price_Matrix.xlsx
 ```
 
+## Adding photographs by hand
+
+`add-images.mjs` is the path that does not need the storefronts to be
+reachable: drop a photo into `incoming/` named after the product id, run
+`npm run images:add`, and it writes the three webp sizes. `npm run
+images:missing` lists what is still waiting and writes `images-missing.csv`.
+
 ## Where the data comes from
 
 - `authored_a.py` — note pyramids and descriptions written by hand for 49 of

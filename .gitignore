@@ -15,3 +15,6 @@ scripts/harvest.json
 scripts/matches.json
 scripts/images_report.json
 scripts/xl/
+scripts/incoming/*
+!scripts/incoming/README.txt
+scripts/images-missing.csv

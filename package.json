@@ -7,7 +7,10 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "catalog": "python3 scripts/build_catalog.py",
+    "images:add": "node scripts/add-images.mjs",
+    "images:missing": "node scripts/add-images.mjs missing"
   },
   "dependencies": {
     "next": "15.5.4",
